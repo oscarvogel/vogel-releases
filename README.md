@@ -4,9 +4,23 @@ Repositorio público de distribución de instaladores y metadatos de actualizaci
 
 > Este repositorio **no contiene código fuente privado**. Solo publica artefactos de distribución, manifiestos de versión y checksums.
 
-## Estructura
+## Estrategia de almacenamiento
 
-Cada aplicación usa un identificador estable (`app_id`) y publica un manifiesto en:
+Se mantiene **un único GitHub Release permanente** con tag `latest`.
+
+Ese release contiene solamente el instalador vigente de cada aplicación, por ejemplo:
+
+```text
+FEMAG_Desktop_Produccion_Setup.exe
+FGPY_Mantenimiento_Preventivo.exe
+Forestal_Setup.exe
+```
+
+Cuando una aplicación publica una versión nueva, el workflow elimina **solo el asset anterior de esa aplicación** y sube el nuevo. No se conservan instaladores históricos, evitando crecimiento innecesario del almacenamiento.
+
+## Estructura de manifiestos
+
+Cada aplicación usa un identificador estable (`app_id`) y publica su versión vigente en:
 
 ```text
 apps/<app_id>/latest.json
@@ -20,7 +34,7 @@ apps/fgpy/latest.json
 apps/forestal/latest.json
 ```
 
-Los instaladores binarios se publican como assets de GitHub Releases. El manifiesto `latest.json` apunta al asset correspondiente.
+Los manifiestos apuntan al asset correspondiente del release `latest`.
 
 ## Formato de manifiesto
 
@@ -28,32 +42,24 @@ Los instaladores binarios se publican como assets de GitHub Releases. El manifie
 {
   "schema_version": 1,
   "app_id": "femag",
-  "version": "1.0.0",
-  "published_at": "2026-08-27T00:00:00Z",
+  "version": "2026.08.27.16.30.00",
+  "published_at": "2026-08-27T19:30:00Z",
   "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/femag-v1.0.0/FEMAG-Setup-1.0.0.exe",
-  "sha256": "",
-  "notes": "Primera versión publicada mediante Vogel Releases."
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FEMAG_Desktop_Produccion_Setup.exe",
+  "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "notes": "Mejoras y correcciones de FEMAG."
 }
-```
-
-## Convención de tags
-
-Para evitar colisiones entre productos:
-
-```text
-femag-v1.2.3
-fgpy-v2.0.1
-forestal-v3.4.0
 ```
 
 ## Flujo previsto
 
-1. El repositorio privado de cada aplicación ejecuta sus tests y genera el instalador.
+1. El repositorio de cada aplicación ejecuta sus tests y genera el instalador.
 2. Calcula SHA256 del artefacto.
-3. Publica una GitHub Release en este repositorio.
-4. Actualiza `apps/<app_id>/latest.json`.
-5. La aplicación instalada consulta su manifiesto público y avisa al usuario si existe una versión superior.
+3. Localiza el release permanente `latest` en este repositorio.
+4. Elimina del release solamente el asset anterior de esa aplicación, si existe.
+5. Sube el nuevo instalador manteniendo un nombre estable.
+6. Actualiza `apps/<app_id>/latest.json` con versión, fecha, SHA256 y notas.
+7. La aplicación instalada consulta su manifiesto público y avisa al usuario si existe una versión superior.
 
 ## Seguridad
 
