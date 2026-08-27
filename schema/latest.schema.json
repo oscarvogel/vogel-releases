@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/oscarvogel/vogel-releases/blob/main/schema/latest.schema.json",
+  "title": "Vogel Releases latest manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "app_id",
+    "version",
+    "published_at",
+    "mandatory",
+    "download_url",
+    "sha256",
+    "notes"
+  ],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "app_id": { "type": "string", "minLength": 1 },
+    "version": { "type": "string", "minLength": 1 },
+    "published_at": { "type": "string", "format": "date-time" },
+    "mandatory": { "type": "boolean" },
+    "download_url": { "type": "string", "format": "uri", "pattern": "^https://github\\.com/oscarvogel/vogel-releases/releases/download/" },
+    "sha256": { "type": "string", "pattern": "^[A-Fa-f0-9]{64}$" },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}
