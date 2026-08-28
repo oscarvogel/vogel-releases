@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "version": "2026.08.28.21.17.57",
+  "published_at": "2026-08-28T21:21:06Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
+  "sha256": "b615f1751d29612832c11f9e7b39e580e7276a17a29ab02135487e1ba3e60421",
+  "notes": "Prueba E2E de actualizacion automatica FGPY."
+}
