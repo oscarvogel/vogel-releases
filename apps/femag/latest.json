@@ -1,10 +1,10 @@
 ﻿{
     "schema_version":  1,
     "app_id":  "femag",
-    "version":  "2026.08.27.21.52.21",
-    "published_at":  "2026-08-27T21:53:29Z",
+    "version":  "2026.08.28.10.25.42",
+    "published_at":  "2026-08-28T10:26:45Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FEMAG_Desktop_Produccion_Setup.exe",
-    "sha256":  "54c69802685778d9a922c6c8a54d53483518f63745e9fa6455af7812f6a90082",
+    "sha256":  "1fd04387339d6467add2bf1375c3048261aa42cd430781d043042ae43f5838cf",
     "notes":  "Nueva versión de FEMAG disponible."
 }
