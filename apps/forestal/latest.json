@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "app_id": "forestal",
+  "version": "2026.08.28.20.37.31",
+  "published_at": "2026-08-28T20:40:32Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
+  "sha256": "de57c24f88a50a971c269daa9a259ebe84271e483b613c7dca78e236fa08ee34",
+  "notes": "Prueba E2E de actualizacion automatica Forestal."
+}
