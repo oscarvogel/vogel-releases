@@ -1,10 +1,16 @@
 {
   "schema_version": 1,
   "app_id": "forestal-escritorio",
-  "version": "2026.08.29.12.12.08",
-  "published_at": "2026-08-29T12:15:15Z",
+  "version": "2026.08.29.14.03.53",
+  "published_at": "2026-08-29T14:07:51Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Escritorio_Produccion_Setup.exe",
-  "sha256": "10df1608a59a00f44f502d3036337e80a1519c2f993e13bfa57877b4d3d1473b",
-  "notes": "Nueva version de Forestal disponible."
+  "sha256": "eb8e0fcb1c6fa580b6d3612f453c44dc1400762b35fd5f998752d22df4976f56",
+  "notes": "Se incorporó un historial de cambios por versión.\nLas novedades se muestran una sola vez en cada instalación de Forestal.\nSi una PC salta varias versiones, se muestran todos los cambios pendientes acumulados.\nSe agregó un acceso permanente “Novedades” para volver a consultar el historial.",
+  "changes": [
+    "Se incorporó un historial de cambios por versión.",
+    "Las novedades se muestran una sola vez en cada instalación de Forestal.",
+    "Si una PC salta varias versiones, se muestran todos los cambios pendientes acumulados.",
+    "Se agregó un acceso permanente “Novedades” para volver a consultar el historial."
+  ]
 }

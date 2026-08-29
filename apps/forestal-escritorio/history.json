@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "app_id": "forestal-escritorio",
+  "releases": [
+    {
+      "version": "2026.08.29.14.03.53",
+      "published_at": "2026-08-29T14:07:51Z",
+      "changes": [
+        "Se incorporó un historial de cambios por versión.",
+        "Las novedades se muestran una sola vez en cada instalación de Forestal.",
+        "Si una PC salta varias versiones, se muestran todos los cambios pendientes acumulados.",
+        "Se agregó un acceso permanente “Novedades” para volver a consultar el historial."
+      ]
+    }
+  ]
+}
