@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "app_id": "forestal",
+  "versions": [
+    {
+      "version": "2026.08.29.14.20.56",
+      "published_at": "2026-08-29T14:24:06Z",
+      "notes": [
+        "changelog acumulado y novedades por versión"
+      ]
+    }
+  ]
+}
