@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "app_id": "forestal-escritorio",
+  "version": "2026.08.29.11.36.16",
+  "published_at": "2026-08-29T11:39:12Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Escritorio_Produccion_Setup.exe",
+  "sha256": "e897d5d496b22f20f407f340b7082d49d483c4979d01a5f012f2ae5d8f0e1b3d",
+  "notes": "Nueva version de Forestal disponible."
+}
