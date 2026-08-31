@@ -8,6 +8,13 @@
       "notes": [
         "changelog acumulado y novedades por versión"
       ]
+    },
+    {
+      "version": "2026.08.31.17.01.01",
+      "published_at": "2026-08-31T17:04:15Z",
+      "notes": [
+        "noop"
+      ]
     }
   ]
 }

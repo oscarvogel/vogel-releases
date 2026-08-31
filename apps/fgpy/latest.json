@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "app_id": "fgpy",
-  "version": "2026.08.29.14.15.46",
-  "published_at": "2026-08-29T14:19:14Z",
+  "version": "2026.08.31.17.01.01",
+  "published_at": "2026-08-31T17:04:15Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-  "sha256": "4429ceb7f63b0379eff94f7f821f6aba78244db616df6f25280e6113e4acccbd",
-  "notes": "changelog acumulado y novedades por versión"
+  "sha256": "83674d8741e6be95c129fbe77563bf8bc3c603bb55d4c040e0aa2ee69784016f",
+  "notes": "noop"
 }
