@@ -11,6 +11,16 @@
         "Si una PC salta varias versiones, se muestran todos los cambios pendientes acumulados.",
         "Se agregó un acceso permanente “Novedades” para volver a consultar el historial."
       ]
+    },
+    {
+      "version": "2026.08.31.14.53.48",
+      "published_at": "2026-08-31T14:58:11Z",
+      "changes": [
+        "Se incorporó un historial de cambios por versión.",
+        "Las novedades se muestran una sola vez en cada instalación de Forestal.",
+        "Si una PC salta varias versiones, se muestran todos los cambios pendientes acumulados.",
+        "Se agregó un acceso permanente “Novedades” para volver a consultar el historial."
+      ]
     }
   ]
 }
