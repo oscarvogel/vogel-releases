@@ -2,14 +2,14 @@
   "schema_version": 1,
   "app_id": "forestal-escritorio",
   "channel": "candidate",
-  "version": "2026.09.02.18.55.27",
-  "published_at": "2026-09-02T18:59:03Z",
+  "version": "2026.09.02.20.09.04",
+  "published_at": "2026-09-02T20:13:02Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Escritorio_Candidate_Setup.exe",
-  "sha256": "c48d062ad48ec01d1364c30d802208171e3d9e0b2e980937306d349bf7ed0dbd",
-  "source_commit": "e7ce3e89c8c424b41e374fbaf7b1797258f919bb",
+  "sha256": "094c278aaa3f487fa808e3720bf0a0e9f0e3141980b4840d099cfded0fcfaaee",
+  "source_commit": "e08bc3830f1b139225cb3e1da105a867078f72ce",
   "automated_validation": "passed",
-  "notes": "Se mejoró la presentación de las novedades con un diálogo dedicado, más claro y cómodo de leer.\nEl historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.\nLas versiones del historial se muestran con la más reciente primero.\nSi el nuevo diálogo no pudiera abrirse, Forestal mantiene el fallback seguro al mensaje clásico sin bloquear el inicio.\nLas nuevas versiones pasan primero por un canal candidato con validaciones automáticas antes de llegar a producción.\nSe agregó un modo piloto para probar una versión candidata en una PC real sin actualizar al resto de los usuarios.\nLa PC piloto puede iniciar la aprobación de la misma versión validada, sin recompilar el instalador.\nSe conserva automáticamente la versión productiva anterior para permitir un rollback operativo rápido.\nLa ventana de modificación de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.",
+  "notes": "Se mejoró la presentación de las novedades con un diálogo dedicado, más claro y cómodo de leer.\nEl historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.\nLas versiones del historial se muestran con la más reciente primero.\nSi el nuevo diálogo no pudiera abrirse, Forestal mantiene el fallback seguro al mensaje clásico sin bloquear el inicio.\nLas nuevas versiones pasan primero por un canal candidato con validaciones automáticas antes de llegar a producción.\nSe agregó un modo piloto para probar una versión candidata en una PC real sin actualizar al resto de los usuarios.\nLa PC piloto puede iniciar la aprobación de la misma versión validada, sin recompilar el instalador.\nSe conserva automáticamente la versión productiva anterior para permitir un rollback operativo rápido.\nLa ventana de modificación de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.\nSe reforzó la apertura de la ficha de empleado para mantenerla maximizada también al mostrarse y entrar al diálogo modal.",
   "changes": [
     "Se mejoró la presentación de las novedades con un diálogo dedicado, más claro y cómodo de leer.",
     "El historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.",
@@ -19,6 +19,7 @@
     "Se agregó un modo piloto para probar una versión candidata en una PC real sin actualizar al resto de los usuarios.",
     "La PC piloto puede iniciar la aprobación de la misma versión validada, sin recompilar el instalador.",
     "Se conserva automáticamente la versión productiva anterior para permitir un rollback operativo rápido.",
-    "La ventana de modificación de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones."
+    "La ventana de modificación de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.",
+    "Se reforzó la apertura de la ficha de empleado para mantenerla maximizada también al mostrarse y entrar al diálogo modal."
   ]
 }
