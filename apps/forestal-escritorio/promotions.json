@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "forestal-escritorio",
+  "promotions": [
+    {
+      "version": "2026.09.04.10.38.58",
+      "sha256": "0fbfed345f64e988ea7d222388811ed4bea42f7b23bc48f8d0da09dd3214a024",
+      "promoted_at": "2026-09-04T11:26:11Z",
+      "source_commit": "a347b473390f7a8d13923df912bd10221b0e926f",
+      "approved_by": "oscarvogel",
+      "workflow_run": "local-2026-09-04",
+      "action": "promote_candidate"
+    }
+  ]
+}
