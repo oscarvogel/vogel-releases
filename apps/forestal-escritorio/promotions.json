@@ -1,15 +1,24 @@
 {
-  "schema_version": 1,
-  "app_id": "forestal-escritorio",
-  "promotions": [
-    {
-      "version": "2026.09.04.10.38.58",
-      "sha256": "0fbfed345f64e988ea7d222388811ed4bea42f7b23bc48f8d0da09dd3214a024",
-      "promoted_at": "2026-09-04T11:26:11Z",
-      "source_commit": "a347b473390f7a8d13923df912bd10221b0e926f",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-04",
-      "action": "promote_candidate"
-    }
-  ]
+    "schema_version":  1,
+    "app_id":  "forestal-escritorio",
+    "promotions":  [
+                       {
+                           "version":  "2026.09.04.10.38.58",
+                           "sha256":  "0fbfed345f64e988ea7d222388811ed4bea42f7b23bc48f8d0da09dd3214a024",
+                           "promoted_at":  "2026-09-04T11:26:11Z",
+                           "source_commit":  "a347b473390f7a8d13923df912bd10221b0e926f",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-04",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.09.12.12.40.44",
+                           "sha256":  "4ddb36533a410c794917d40823f558ab4141deffdd2eeaa62d51d0376b89d77f",
+                           "promoted_at":  "2026-09-12T14:16:34Z",
+                           "source_commit":  "4b5c35ee8adf9c84f419db7c594b261a99be9816",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-12-141635",
+                           "action":  "promote_candidate"
+                       }
+                   ]
 }
