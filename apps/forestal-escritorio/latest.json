@@ -1,23 +1,24 @@
 {
-  "schema_version": 1,
-  "app_id": "forestal-escritorio",
-  "version": "2026.09.04.10.38.58",
-  "published_at": "2026-09-04T11:26:11Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Escritorio_Produccion_Setup.exe",
-  "sha256": "0fbfed345f64e988ea7d222388811ed4bea42f7b23bc48f8d0da09dd3214a024",
-  "notes": "Se mejoró la presentación de las novedades con un diálogo dedicado, más claro y cómodo de leer.\nEl historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.\nLas versiones del historial se muestran con la más reciente primero.\nSi el nuevo diálogo no pudiera abrirse, Forestal mantiene el fallback seguro al mensaje clásico sin bloquear el inicio.\nLas nuevas versiones pasan primero por un canal candidato con validaciones automáticas antes de llegar a producción.\nSe agregó un modo piloto para probar una versión candidata en una PC real sin actualizar al resto de los usuarios.\nLa PC piloto puede iniciar la aprobación de la misma versión validada, sin recompilar el instalador.\nSe conserva automáticamente la versión productiva anterior para permitir un rollback operativo rápido.\nLa ventana de modificación de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.\nSe reforzó la apertura de la ficha de empleado para mantenerla maximizada también al mostrarse y entrar al diálogo modal.\nEl Control de Producción ahora carga los registros de forma más eficiente y evita bloqueos de la ventana durante la revisión de turnos.",
-  "changes": [
-    "Se mejoró la presentación de las novedades con un diálogo dedicado, más claro y cómodo de leer.",
-    "El historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.",
-    "Las versiones del historial se muestran con la más reciente primero.",
-    "Si el nuevo diálogo no pudiera abrirse, Forestal mantiene el fallback seguro al mensaje clásico sin bloquear el inicio.",
-    "Las nuevas versiones pasan primero por un canal candidato con validaciones automáticas antes de llegar a producción.",
-    "Se agregó un modo piloto para probar una versión candidata en una PC real sin actualizar al resto de los usuarios.",
-    "La PC piloto puede iniciar la aprobación de la misma versión validada, sin recompilar el instalador.",
-    "Se conserva automáticamente la versión productiva anterior para permitir un rollback operativo rápido.",
-    "La ventana de modificación de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.",
-    "Se reforzó la apertura de la ficha de empleado para mantenerla maximizada también al mostrarse y entrar al diálogo modal.",
-    "El Control de Producción ahora carga los registros de forma más eficiente y evita bloqueos de la ventana durante la revisión de turnos."
-  ]
+    "schema_version":  1,
+    "app_id":  "forestal-escritorio",
+    "version":  "2026.09.12.12.40.44",
+    "published_at":  "2026-09-12T14:16:34Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Escritorio_Produccion_Setup.exe",
+    "sha256":  "4ddb36533a410c794917d40823f558ab4141deffdd2eeaa62d51d0376b89d77f",
+    "notes":  "Se mejor├│ la presentaci├│n de las novedades con un di├ílogo dedicado, m├ís claro y c├│modo de leer.\r\nEl historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.\r\nLas versiones del historial se muestran con la m├ís reciente primero.\r\nSi el nuevo di├ílogo no pudiera abrirse, Forestal mantiene el fallback seguro al mensaje cl├ísico sin bloquear el inicio.\r\nLas nuevas versiones pasan primero por un canal candidato con validaciones autom├íticas antes de llegar a producci├│n.\r\nSe agreg├│ un modo piloto para probar una versi├│n candidata en una PC real sin actualizar al resto de los usuarios.\r\nLa PC piloto puede iniciar la aprobaci├│n de la misma versi├│n validada, sin recompilar el instalador.\r\nSe conserva autom├íticamente la versi├│n productiva anterior para permitir un rollback operativo r├ípido.\r\nLa ventana de modificaci├│n de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.\r\nSe reforz├│ la apertura de la ficha de empleado para mantenerla maximizada tambi├®n al mostrarse y entrar al di├ílogo modal.\r\nEl Control de Producci├│n ahora carga los registros de forma m├ís eficiente y evita bloqueos de la ventana durante la revisi├│n de turnos.\r\nSe renov├│ la pantalla de ingreso con identidad visual forestal, fondo, iconos y mejor presentaci├│n sin cambiar la l├│gica de acceso.",
+    "changes":  [
+                    "Se mejor├│ la presentaci├│n de las novedades con un di├ílogo dedicado, m├ís claro y c├│modo de leer.",
+                    "El historial de cambios ahora tiene una vista propia, diferenciada de las novedades pendientes.",
+                    "Las versiones del historial se muestran con la m├ís reciente primero.",
+                    "Si el nuevo di├ílogo no pudiera abrirse, Forestal mantiene el fallback seguro al mensaje cl├ísico sin bloquear el inicio.",
+                    "Las nuevas versiones pasan primero por un canal candidato con validaciones autom├íticas antes de llegar a producci├│n.",
+                    "Se agreg├│ un modo piloto para probar una versi├│n candidata en una PC real sin actualizar al resto de los usuarios.",
+                    "La PC piloto puede iniciar la aprobaci├│n de la misma versi├│n validada, sin recompilar el instalador.",
+                    "Se conserva autom├íticamente la versi├│n productiva anterior para permitir un rollback operativo r├ípido.",
+                    "La ventana de modificaci├│n de ficha de empleado ahora abre maximizada y permite desplazarse sin recortar campos ni botones.",
+                    "Se reforz├│ la apertura de la ficha de empleado para mantenerla maximizada tambi├®n al mostrarse y entrar al di├ílogo modal.",
+                    "El Control de Producci├│n ahora carga los registros de forma m├ís eficiente y evita bloqueos de la ventana durante la revisi├│n de turnos.",
+                    "Se renov├│ la pantalla de ingreso con identidad visual forestal, fondo, iconos y mejor presentaci├│n sin cambiar la l├│gica de acceso."
+                ]
 }
