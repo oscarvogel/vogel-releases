@@ -22,6 +22,13 @@
       "notes": [
         "Revert accidental noop file"
       ]
+    },
+    {
+      "version": "2026.09.14.19.02.31",
+      "published_at": "2026-09-14T19:42:51Z",
+      "notes": [
+        "fix(release): crear candidate.json inexistente (#237)"
+      ]
     }
   ]
 }
