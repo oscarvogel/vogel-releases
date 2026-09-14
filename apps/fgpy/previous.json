@@ -1,0 +1,11 @@
+{
+    "schema_version":  1,
+    "app_id":  "fgpy",
+    "version":  "2026.08.31.17.11.47",
+    "published_at":  "2026-08-31T17:14:49Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/FGPY_Produccion_Setup.exe",
+    "sha256":  "6493de86a2150f4adce9290d8803a81f96e3c5d42eb0ba222660e20898f0c874",
+    "notes":  "Revert accidental noop file",
+    "channel":  "previous"
+}
