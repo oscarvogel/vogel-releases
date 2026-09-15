@@ -1,0 +1,11 @@
+{
+    "schema_version":  1,
+    "app_id":  "forestal",
+    "version":  "2026.08.31.17.16.37",
+    "published_at":  "2026-08-31T17:19:41Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/Forestal_Produccion_Setup.exe",
+    "sha256":  "b1696fc08e14962c8ef40e432a0b33f0f2f463f0e07b4d5314ab2e5d3beddd50",
+    "notes":  "Revert accidental noop file",
+    "channel":  "previous"
+}
