@@ -1,0 +1,14 @@
+{
+    "schema_version":  1,
+    "app_id":  "forestal",
+    "events":  [
+                   {
+                       "action":  "promote_candidate",
+                       "version":  "2026.09.15.21.27.07",
+                       "sha256":  "e69704c5de391536276652b845e585f68c9f98106a333686bee819dc5aea1b8b",
+                       "timestamp":  "2026-09-15T21:36:17Z",
+                       "actor":  "OSCAR24",
+                       "source":  "local"
+                   }
+               ]
+}
