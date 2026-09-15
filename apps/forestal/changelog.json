@@ -1,27 +1,34 @@
 {
-  "schema_version": 1,
-  "app_id": "forestal",
-  "versions": [
-    {
-      "version": "2026.08.29.14.20.56",
-      "published_at": "2026-08-29T14:24:06Z",
-      "notes": [
-        "changelog acumulado y novedades por versión"
-      ]
-    },
-    {
-      "version": "2026.08.31.17.06.44",
-      "published_at": "2026-08-31T17:10:04Z",
-      "notes": [
-        "noop"
-      ]
-    },
-    {
-      "version": "2026.08.31.17.16.37",
-      "published_at": "2026-08-31T17:19:41Z",
-      "notes": [
-        "Revert accidental noop file"
-      ]
-    }
-  ]
+    "schema_version":  1,
+    "app_id":  "forestal",
+    "versions":  [
+                     {
+                         "version":  "2026.08.29.14.20.56",
+                         "published_at":  "2026-08-29T14:24:06Z",
+                         "notes":  [
+                                       "changelog acumulado y novedades por versión"
+                                   ]
+                     },
+                     {
+                         "version":  "2026.08.31.17.06.44",
+                         "published_at":  "2026-08-31T17:10:04Z",
+                         "notes":  [
+                                       "noop"
+                                   ]
+                     },
+                     {
+                         "version":  "2026.08.31.17.16.37",
+                         "published_at":  "2026-08-31T17:19:41Z",
+                         "notes":  [
+                                       "Revert accidental noop file"
+                                   ]
+                     },
+                     {
+                         "version":  "2026.09.15.21.27.07",
+                         "published_at":  "2026-09-15T21:36:17Z",
+                         "notes":  [
+                                       "feat(repuestos): bandeja, filtros, alertas y detalle (#252) (#259)"
+                                   ]
+                     }
+                 ]
 }
