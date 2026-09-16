@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "app_id": "fgpy",
-  "channel": "latest",
-  "version": "2026.09.14.19.02.31",
-  "published_at": "2026-09-14T19:42:51Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-  "sha256": "1b814f98056b112e4af93717e8c90269f58c1601e6f1d1f29fa9c8451efcd5d3",
-  "source_commit": "11508e3b0814dabe7f77bce09c3af92118e1b01f",
-  "automated_validation": "passed",
-  "notes": "fix(release): crear candidate.json inexistente (#237)"
+    "schema_version":  1,
+    "app_id":  "fgpy",
+    "channel":  "latest",
+    "version":  "2026.09.16.12.28.35",
+    "published_at":  "2026-09-16T12:40:40Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
+    "sha256":  "f7629f23b088642b4ab234d81fede92b5c6d9e256b1aa368a8c62a5962f8d19d",
+    "source_commit":  "45c75102da73ed3cddb6cc2426225adc547bc51f",
+    "automated_validation":  "passed",
+    "notes":  "fix(produccion): respetar filtros y acelerar exportaci├│n (#260)"
 }
