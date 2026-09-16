@@ -1,11 +1,13 @@
 {
     "schema_version":  1,
     "app_id":  "fgpy",
-    "version":  "2026.08.31.17.11.47",
-    "published_at":  "2026-08-31T17:14:49Z",
+    "channel":  "previous",
+    "version":  "2026.09.14.19.02.31",
+    "published_at":  "2026-09-14T19:42:51Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/FGPY_Produccion_Setup.exe",
-    "sha256":  "6493de86a2150f4adce9290d8803a81f96e3c5d42eb0ba222660e20898f0c874",
-    "notes":  "Revert accidental noop file",
-    "channel":  "previous"
+    "sha256":  "1b814f98056b112e4af93717e8c90269f58c1601e6f1d1f29fa9c8451efcd5d3",
+    "source_commit":  "11508e3b0814dabe7f77bce09c3af92118e1b01f",
+    "automated_validation":  "passed",
+    "notes":  "fix(release): crear candidate.json inexistente (#237)"
 }
