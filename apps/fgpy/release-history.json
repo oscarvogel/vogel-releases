@@ -1,14 +1,22 @@
 {
-  "schema_version": 1,
-  "app_id": "fgpy",
-  "events": [
-    {
-      "action": "promote_candidate",
-      "version": "2026.09.14.19.02.31",
-      "sha256": "1b814f98056b112e4af93717e8c90269f58c1601e6f1d1f29fa9c8451efcd5d3",
-      "timestamp": "2026-09-14T19:42:51Z",
-      "actor": "oscarvogel",
-      "source": "local"
-    }
-  ]
+    "schema_version":  1,
+    "app_id":  "fgpy",
+    "events":  [
+                   {
+                       "action":  "promote_candidate",
+                       "version":  "2026.09.14.19.02.31",
+                       "sha256":  "1b814f98056b112e4af93717e8c90269f58c1601e6f1d1f29fa9c8451efcd5d3",
+                       "timestamp":  "2026-09-14T19:42:51Z",
+                       "actor":  "oscarvogel",
+                       "source":  "local"
+                   },
+                   {
+                       "action":  "promote_candidate",
+                       "version":  "2026.09.16.12.28.35",
+                       "sha256":  "f7629f23b088642b4ab234d81fede92b5c6d9e256b1aa368a8c62a5962f8d19d",
+                       "timestamp":  "2026-09-16T12:40:40Z",
+                       "actor":  "OSCAR24",
+                       "source":  "local"
+                   }
+               ]
 }
