@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "femag",
   "channel": "candidate",
-  "version": "2026.09.18.18.14.29",
-  "published_at": "2026-09-18T18:16:04Z",
-  "validated_at": "2026-09-18T18:16:04Z",
-  "source_sha": "10a49feb5fe65130420cc58e29067f4b2ee04334",
+  "version": "2026.09.19.21.08.06",
+  "published_at": "2026-09-19T21:09:33Z",
+  "validated_at": "2026-09-19T21:09:33Z",
+  "source_sha": "a5c8455e7aeb52f973a43375191d79e6b974653a",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/femag-candidate/FEMAG_Desktop_Produccion_Setup.exe",
-  "sha256": "d7165539f8f3235a34b72aa44d6722b37192017c61210a1692900aab956a8898",
-  "notes": "Candidate FEMAG 2026.09.18.18.14.29 validado automáticamente."
+  "sha256": "90a907b4bc78cd1857cbb5ac97dc4dd2bafe6053690b607f7daf2881e62bb6a2",
+  "notes": "Candidate FEMAG 2026.09.19.21.08.06 validado automáticamente."
 }
