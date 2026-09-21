@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.09.15.21.27.07",
-    "published_at":  "2026-09-15T21:32:19Z",
+    "version":  "2026.09.21.17.30.41",
+    "published_at":  "2026-09-21T17:36:50Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "e69704c5de391536276652b845e585f68c9f98106a333686bee819dc5aea1b8b",
-    "source_commit":  "14e0d27bffaa08033c3a67a3538fc18c882decd0",
+    "sha256":  "84611dfa9481e7a68716546c24fb0e2d2840a5bd3a243c741957aa25a33ba889",
+    "source_commit":  "c219581bdced9887cf9c1a255562e5395173db7f",
     "automated_validation":  "passed",
-    "notes":  "feat(repuestos): bandeja, filtros, alertas y detalle (#252) (#259)"
+    "notes":  "Imprimir preventivos seg├║n filtro del dashboard (#266)"
 }
