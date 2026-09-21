@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.09.21.18.46.04",
-    "published_at":  "2026-09-21T18:50:51Z",
+    "version":  "2026.09.21.19.02.43",
+    "published_at":  "2026-09-21T19:06:03Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "1f3ae55c6e9712a9a88c39c6ca37f2113c6776229dd3b62e48160cbaf73436a1",
-    "source_commit":  "c219581bdced9887cf9c1a255562e5395173db7f",
+    "sha256":  "2dc26b88271b61457069e2a9a8ffaabce95537bdaa29f9eaee3d6de66d994e15",
+    "source_commit":  "3709808b4c8e6056424ae84a403ab300c1160722",
     "automated_validation":  "passed",
-    "notes":  "Imprimir preventivos seg├║n filtro del dashboard (#266)"
+    "notes":  "fix: evitar fallo por BOM en sistema.ini y detectar Inno Setup"
 }
