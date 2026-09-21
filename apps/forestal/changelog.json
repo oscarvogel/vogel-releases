@@ -29,6 +29,13 @@
                          "notes":  [
                                        "feat(repuestos): bandeja, filtros, alertas y detalle (#252) (#259)"
                                    ]
+                     },
+                     {
+                         "version":  "2026.09.21.19.02.43",
+                         "published_at":  "2026-09-21T19:15:31Z",
+                         "notes":  [
+                                       "fix: evitar fallo por BOM en sistema.ini y detectar Inno Setup"
+                                   ]
                      }
                  ]
 }
