@@ -21,3 +21,4 @@
 {"operation":"promote_candidate","at":"2026-09-23T19:09:01.9188701Z","actor":"oscarvogel","version":"2026.09.23.15.49.18","sha256":"cff329228e0d8326ad6900cd804e172cea2c24d8e9c20cda238426d57b327b8a","source":"local-script"}
 {"operation":"promote_candidate","at":"2026-09-24T16:58:33.4225574Z","actor":"oscarvogel","version":"2026.09.24.13.43.54","sha256":"714c570eb32e1d8d8d0f036c382a683581f0223ee02ac015dc6cd84e1faeccef","source":"local-script"}
 {"operation":"promote_candidate","at":"2026-09-24T18:21:46.8376974Z","actor":"oscarvogel","run_id":"36040638462","version":"2026.09.24.18.12.50","sha256":"f5981a345328f2922b4d7bb4de0aa74ed2eb224619806afb44cd3b0ef23a8dee"}
+{"operation":"promote_candidate","at":"2026-09-28T13:52:39.4729098Z","actor":"oscarvogel","version":"2026.09.28.10.34.36","sha256":"0161dc771cbe87d7115d9e296ac9b770bfd60a54a42a778af84924c26924e405","source":"local-script"}
