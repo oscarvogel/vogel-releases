@@ -25,3 +25,4 @@
 {"operation":"promote_candidate","at":"2026-09-28T20:06:41.3457963Z","actor":"oscarvogel","version":"2026.09.28.16.50.50","sha256":"315754a54dc2de11388699beacfeeb53d21a88a89a830a471c1093b995146c64","source":"local-script"}
 {"operation":"promote_candidate","at":"2026-09-29T18:21:09.0480165Z","actor":"oscarvogel","version":"2026.09.29.14.57.46","sha256":"a229b113b49eee37be57c049183a7f8541b94557480b79b34828c823b416534d","source":"local-script"}
 {"operation":"promote_candidate","at":"2026-09-30T12:56:17.8929480Z","actor":"oscarvogel","version":"2026.09.30.09.47.27","sha256":"8edd91ffe8568a631b0ede7c84c0e159af2807b65dfb9f9f2254a2d50585de03","source":"local-script"}
+{"operation":"promote_candidate","at":"2026-09-30T21:34:57.0829219Z","actor":"oscarvogel","version":"2026.09.30.18.16.25","sha256":"f153ce152f0d91fccc0fbe0d11fef3a458da081b2a0ba99d5609b52d483e42d3","source":"local-script"}
