@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
     "app_id":  "asiento",
-    "version":  "2026.10.05.14.45.13",
-    "published_at":  "2026-10-05T14:45:13Z",
+    "version":  "2026.10.05.23.34.24",
+    "published_at":  "2026-10-05T23:34:24Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Asiento_Produccion_Setup.exe",
-    "sha256":  "2cc41965c29672acfa948fc5337d3bc300a60aaeb0549e2696f1fe271c11b11b",
-    "notes":  "Impresion de facturas: los caracteres que la fuente no tiene (guiones, comillas tipograficas) ya no tumban el comprobante se imprimen con su equivalente y el dato guardado no se toca. Si una plantilla falla al renderizarse, ya no se escribe una pagina de error con el nombre de la factura ni se pisa el comprobante de una impresion anterior: no se escribe nada y se avisa con el CAE."
+    "sha256":  "7ec8e301cfd2b2a1f0bddde16ee9813b2067bb9a1eb77facac25f5d44f2be8c9",
+    "notes":  "Con dos productos parecidos ahora se elige cual, en lugar de cargar el primero solo Importador de articulos desde planilla Control de stock en la venta Se corrigieron los caracteres que salian rotos en el PDF del comprobante"
 }

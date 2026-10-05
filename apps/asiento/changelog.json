@@ -19,6 +19,16 @@
                                        "Impresion de facturas: los caracteres que la fuente no tiene (guiones, comillas tipograficas) ya no tumban el comprobante",
                                        "se imprimen con su equivalente y el dato guardado no se toca. Si una plantilla falla al renderizarse, ya no se escribe una pagina de error con el nombre de la factura ni se pisa el comprobante de una impresion anterior: no se escribe nada y se avisa con el CAE."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.05.23.34.24",
+                         "published_at":  "2026-10-05T23:34:24Z",
+                         "notes":  [
+                                       "Con dos productos parecidos ahora se elige cual, en lugar de cargar el primero solo",
+                                       "Importador de articulos desde planilla",
+                                       "Control de stock en la venta",
+                                       "Se corrigieron los caracteres que salian rotos en el PDF del comprobante"
+                                   ]
                      }
                  ]
 }
