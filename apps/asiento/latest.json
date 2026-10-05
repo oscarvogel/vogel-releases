@@ -1,10 +1,10 @@
 {
-    "schema_version": 1,
-    "app_id": "asiento",
-    "version": "2026.10.05.08.37.00",
-    "published_at": "2026-10-05T11:42:25Z",
-    "mandatory": false,
-    "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Asiento_Produccion_Setup.exe",
-    "sha256": "60f294eaf4975b02e2736aa8bc0e974ff0ee21d28b23ff3fb8860925eba91bd4",
-    "notes": "Manejo de stock: inventario inicial, ajustes con motivo, avisos de faltante y auditoría de movimientos. Pantalla de emisión rediseñada, con los totales y el CAE legibles y el buscador de clientes. Corrección del reparto de anchos de columnas y del redimensionado de ventanas."
+    "schema_version":  1,
+    "app_id":  "asiento",
+    "version":  "2026.10.05.13.15.58",
+    "published_at":  "2026-10-05T13:15:58Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Asiento_Produccion_Setup.exe",
+    "sha256":  "3b5a22af5f4469e9ee025b53e15f96cf8d9f96fe144d1869148f889f5abb8d6d",
+    "notes":  "Se arregla la instalacion en Program Files: la configuracion y la base ya se pueden guardar Stock: movimientos y stock en la factura Pantalla de emision nueva Actualizacion automatica desde vogel-releases"
 }

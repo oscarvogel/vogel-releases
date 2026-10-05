@@ -1,0 +1,16 @@
+{
+    "schema_version":  1,
+    "app_id":  "asiento",
+    "versions":  [
+                     {
+                         "version":  "2026.10.05.13.15.58",
+                         "published_at":  "2026-10-05T13:15:58Z",
+                         "notes":  [
+                                       "Se arregla la instalacion en Program Files: la configuracion y la base ya se pueden guardar",
+                                       "Stock: movimientos y stock en la factura",
+                                       "Pantalla de emision nueva",
+                                       "Actualizacion automatica desde vogel-releases"
+                                   ]
+                     }
+                 ]
+}
