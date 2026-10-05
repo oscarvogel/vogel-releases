@@ -11,6 +11,14 @@
                                        "Pantalla de emision nueva",
                                        "Actualizacion automatica desde vogel-releases"
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.05.14.45.13",
+                         "published_at":  "2026-10-05T14:45:13Z",
+                         "notes":  [
+                                       "Impresion de facturas: los caracteres que la fuente no tiene (guiones, comillas tipograficas) ya no tumban el comprobante",
+                                       "se imprimen con su equivalente y el dato guardado no se toca. Si una plantilla falla al renderizarse, ya no se escribe una pagina de error con el nombre de la factura ni se pisa el comprobante de una impresion anterior: no se escribe nada y se avisa con el CAE."
+                                   ]
                      }
                  ]
 }
