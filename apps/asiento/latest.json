@@ -1,0 +1,10 @@
+{
+    "schema_version": 1,
+    "app_id": "asiento",
+    "version": "2026.10.05.08.37.00",
+    "published_at": "2026-10-05T11:42:25Z",
+    "mandatory": false,
+    "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Asiento_Produccion_Setup.exe",
+    "sha256": "60f294eaf4975b02e2736aa8bc0e974ff0ee21d28b23ff3fb8860925eba91bd4",
+    "notes": "Manejo de stock: inventario inicial, ajustes con motivo, avisos de faltante y auditoría de movimientos. Pantalla de emisión rediseñada, con los totales y el CAE legibles y el buscador de clientes. Corrección del reparto de anchos de columnas y del redimensionado de ventanas."
+}
