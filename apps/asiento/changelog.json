@@ -29,6 +29,17 @@
                                        "Control de stock en la venta",
                                        "Se corrigieron los caracteres que salian rotos en el PDF del comprobante"
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.07.19.10.56",
+                         "published_at":  "2026-10-07T19:10:56Z",
+                         "notes":  [
+                                       "En la venta se busca por codigo de barras, incluso con los primeros digitos del lector: antes preguntar si querias crear el producto y lo duplicaba en el catalogo",
+                                       "El selector de producto muestra el precio al publico, con el codigo y el codigo de barras en columnas separadas, y ya no corta los nombres largos",
+                                       "Con dos productos parecidos hay que marcar cual: se agrega o se cobra el primero sin preguntar cuando hay dos coincidencias",
+                                       "El precio al publico se calcula solo a partir del costo y un porcentaje de ganancia, en vez de teclearse",
+                                       "El importador de planillas guarda el margen de cada articulo y usa un margen por defecto en los renglones que no traen ganancia"
+                                   ]
                      }
                  ]
 }

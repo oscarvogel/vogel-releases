@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
     "app_id":  "asiento",
-    "version":  "2026.10.05.23.34.24",
-    "published_at":  "2026-10-05T23:34:24Z",
+    "version":  "2026.10.07.19.10.56",
+    "published_at":  "2026-10-07T19:10:56Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Asiento_Produccion_Setup.exe",
-    "sha256":  "7ec8e301cfd2b2a1f0bddde16ee9813b2067bb9a1eb77facac25f5d44f2be8c9",
-    "notes":  "Con dos productos parecidos ahora se elige cual, en lugar de cargar el primero solo Importador de articulos desde planilla Control de stock en la venta Se corrigieron los caracteres que salian rotos en el PDF del comprobante"
+    "sha256":  "88063a09ddc38d25d76b3f25e6e34de1d3cf9099bdd7f4fcac59df2d54211200",
+    "notes":  "En la venta se busca por codigo de barras, incluso con los primeros digitos del lector: antes preguntar si querias crear el producto y lo duplicaba en el catalogo El selector de producto muestra el precio al publico, con el codigo y el codigo de barras en columnas separadas, y ya no corta los nombres largos Con dos productos parecidos hay que marcar cual: se agrega o se cobra el primero sin preguntar cuando hay dos coincidencias El precio al publico se calcula solo a partir del costo y un porcentaje de ganancia, en vez de teclearse El importador de planillas guarda el margen de cada articulo y usa un margen por defecto en los renglones que no traen ganancia"
 }
