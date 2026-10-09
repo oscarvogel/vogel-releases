@@ -64,6 +64,15 @@
             "approved_by": "oscarvogel",
             "workflow_run": "local-2026-10-06-203633",
             "action": "promote_candidate"
+        },
+        {
+            "version": "2026.10.09.11.31.01",
+            "sha256": "8177dea6dda4404cc7b8206004a6dd6a0848977a1f95f9386def28205baf6f78",
+            "promoted_at": "2026-10-09T11:43:16Z",
+            "source_commit": "2f1bd980c57ab0fc0b29eb94e6d69e335182343e",
+            "approved_by": "oscarvogel",
+            "workflow_run": "local-2026-10-09-114316-recovered",
+            "action": "promote_candidate"
         }
     ]
 }
