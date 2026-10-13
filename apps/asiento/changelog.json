@@ -40,6 +40,23 @@
                                        "El precio al publico se calcula solo a partir del costo y un porcentaje de ganancia, en vez de teclearse",
                                        "El importador de planillas guarda el margen de cada articulo y usa un margen por defecto en los renglones que no traen ganancia"
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.13.13.03.52",
+                         "published_at":  "2026-10-13T13:03:52Z",
+                         "notes":  [
+                                       "CAEA: se obtiene el vigente, se rinde lo emitido de una vez y se puede emitir con CAEA cuando ARCA no responde",
+                                       "avisos de vigencia y de rindicion",
+                                       "el CAEA vigente queda a la vista y se pueden consultar los emitidos",
+                                       "Presupuestos: se guardan desde la venta y tienen pantalla propia",
+                                       "Foto de producto: alta, panel en la venta y selector",
+                                       "Pre-vuelo de ARCA antes de emitir, que avisa si algo no va a salir",
+                                       "Factura moderna: el CAE ya no sale dos veces",
+                                       "Lote fiscal con NC/ND, libros de IVA, RG 3685 y padron",
+                                       "Venta con pistola: exacto directo y 2 por multiplica",
+                                       "Stock: minimo editable desde la grilla, conteo ciclico y columna MINIMO en el importador",
+                                       "--ini para elegir el sistema.ini desde la linea de comandos"
+                                   ]
                      }
                  ]
 }
