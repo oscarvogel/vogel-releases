@@ -41,7 +41,7 @@
                          "version":  "2026.10.16.11.52.23",
                          "published_at":  "2026-10-16T12:01:30Z",
                          "notes":  [
-                                       "fix(mantenimientos): exportar informe de ordenes a XLSX temporal (#272) (#273)"
+                                       "Corrige el error de permisos al exportar el informe de ordenes de servicio a Excel. Ahora cada exportacion genera un archivo nuevo y no falla si el reporte anterior sigue abierto."
                                    ]
                      }
                  ]
