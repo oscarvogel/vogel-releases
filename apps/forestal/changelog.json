@@ -48,7 +48,7 @@
                          "version":  "2026.10.16.12.19.29",
                          "published_at":  "2026-10-16T12:27:51Z",
                          "notes":  [
-                                       "chore(release): fijar pyqt5libs en 1240e2fd (branding vogelconsultoria) (#274)"
+                                       "Actualiza la marca: los reportes de error ahora usan vogelconsultoria.com.ar (antes servinlgsm.com.ar). Tambien corrige el error de permisos al exportar el informe de ordenes de servicio a Excel."
                                    ]
                      }
                  ]
