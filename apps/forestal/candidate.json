@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.09.21.19.02.43",
-    "published_at":  "2026-09-21T19:06:03Z",
+    "version":  "2026.10.16.11.52.23",
+    "published_at":  "2026-10-16T11:55:30Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "2dc26b88271b61457069e2a9a8ffaabce95537bdaa29f9eaee3d6de66d994e15",
-    "source_commit":  "3709808b4c8e6056424ae84a403ab300c1160722",
+    "sha256":  "4edd08391aed6daca66cff521f31dcfb1273f62795f6dfc7917573f15f6007ee",
+    "source_commit":  "13c5b6e09804fb8e43a109ca448c8cd113653921",
     "automated_validation":  "passed",
-    "notes":  "fix: evitar fallo por BOM en sistema.ini y detectar Inno Setup"
+    "notes":  "fix(mantenimientos): exportar informe de ordenes a XLSX temporal (#272) (#273)"
 }
