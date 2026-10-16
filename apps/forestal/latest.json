@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "latest",
-    "version":  "2026.10.16.11.52.23",
-    "published_at":  "2026-10-16T12:01:30Z",
+    "version":  "2026.10.16.12.19.29",
+    "published_at":  "2026-10-16T12:27:51Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-    "sha256":  "4edd08391aed6daca66cff521f31dcfb1273f62795f6dfc7917573f15f6007ee",
-    "source_commit":  "13c5b6e09804fb8e43a109ca448c8cd113653921",
+    "sha256":  "d23046b7f5d64e9cc4e01e1609fb342bdd604e8ab4836db95574d02f786e7d85",
+    "source_commit":  "19944b44b08ce2d040d92eef626be62bcf1f2cd2",
     "automated_validation":  "passed",
-    "notes":  "fix(mantenimientos): exportar informe de ordenes a XLSX temporal (#272) (#273)"
+    "notes":  "chore(release): fijar pyqt5libs en 1240e2fd (branding vogelconsultoria) (#274)"
 }
