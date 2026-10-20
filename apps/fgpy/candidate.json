@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.10.16.11.24.55",
-    "published_at":  "2026-10-16T11:30:17Z",
+    "version":  "2026.10.20.10.21.37",
+    "published_at":  "2026-10-20T10:24:15Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "a04215917530347b2a39bd6df958c7c98fb9f95a3c6ea4c6e49bea983a222560",
-    "source_commit":  "13c5b6e09804fb8e43a109ca448c8cd113653921",
+    "sha256":  "2d71eade6d2a678ede30738cd79441ddbc6a6e405a8d9f4f2424d3fbb8a8c037",
+    "source_commit":  "d35ea7aa8bb18fa92e6e80068021bf42808f8392",
     "automated_validation":  "passed",
-    "notes":  "fix(mantenimientos): exportar informe de ordenes a XLSX temporal (#272) (#273)"
+    "notes":  "fix(informes): los botones de la configuracion de informes no pueden conectar el metodo directo (#280)"
 }
