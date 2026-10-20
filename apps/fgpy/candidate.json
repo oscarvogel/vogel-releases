@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.10.20.10.21.37",
-    "published_at":  "2026-10-20T10:24:15Z",
+    "version":  "2026.10.20.10.32.45",
+    "published_at":  "2026-10-20T10:35:11Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "2d71eade6d2a678ede30738cd79441ddbc6a6e405a8d9f4f2424d3fbb8a8c037",
-    "source_commit":  "d35ea7aa8bb18fa92e6e80068021bf42808f8392",
+    "sha256":  "13e3181206e47b5a4c5ddd84ae511e03d13e725a3c00474d7dab0adb51cc4649",
+    "source_commit":  "2e941b7ceb9e4de20a9e0ef84f40347e340e2607",
     "automated_validation":  "passed",
-    "notes":  "fix(informes): los botones de la configuracion de informes no pueden conectar el metodo directo (#280)"
+    "notes":  "fix(release): el forzado a SQLite del health-check usaba el nombre de peewee 2 (#281)"
 }
