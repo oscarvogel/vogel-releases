@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.10.16.12.41.04",
-    "published_at":  "2026-10-16T12:45:43Z",
+    "version":  "2026.10.20.20.58.22",
+    "published_at":  "2026-10-20T21:03:05Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "586d47ba6177bdbd87bf644d84e4b20411843108ddc51c62e50ebdca1557da07",
-    "source_commit":  "8cb31e098dc80ab132d02763df4d3c0cd942490d",
+    "sha256":  "7e9becebbf421204238bc5215cb9c6cca22d32b3fb9e505568805aad45b2115f",
+    "source_commit":  "1bc53f84d55b200abd1382e52302e911b8beb61f",
     "automated_validation":  "passed",
-    "notes":  "chore(branding): autor de informes y pin pyqt5libs con vogelconsultoria (#275)"
+    "notes":  "Merge pull request #286 from oscarvogel/codex/fix-panel-errores-tests-y-config"
 }
