@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.10.20.10.32.45",
-    "published_at":  "2026-10-20T10:35:11Z",
+    "version":  "2026.10.20.12.17.35",
+    "published_at":  "2026-10-20T12:22:06Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "13e3181206e47b5a4c5ddd84ae511e03d13e725a3c00474d7dab0adb51cc4649",
-    "source_commit":  "2e941b7ceb9e4de20a9e0ef84f40347e340e2607",
+    "sha256":  "708dcc94430f4112e555c20e7f8ebc4bc2ff1318e9c45cd35e52427e62bda0b8",
+    "source_commit":  "1d06110d8d4760bfca5f01df08f6b553d0418ca1",
     "automated_validation":  "passed",
-    "notes":  "fix(release): el forzado a SQLite del health-check usaba el nombre de peewee 2 (#281)"
+    "notes":  "feat(informes): boton para enviar el informe de prueba por email (#284)"
 }
