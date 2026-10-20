@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.10.20.12.17.35",
-    "published_at":  "2026-10-20T12:22:06Z",
+    "version":  "2026.10.20.12.36.18",
+    "published_at":  "2026-10-20T12:40:31Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "708dcc94430f4112e555c20e7f8ebc4bc2ff1318e9c45cd35e52427e62bda0b8",
-    "source_commit":  "1d06110d8d4760bfca5f01df08f6b553d0418ca1",
+    "sha256":  "1413d57e28bffff3ecfa4efe21e63266cd6552b9a3bc1b35bda4193963a691d6",
+    "source_commit":  "6a652d276fa8cad25f36518de105402307b0b4dc",
     "automated_validation":  "passed",
-    "notes":  "feat(informes): boton para enviar el informe de prueba por email (#284)"
+    "notes":  "fix(release): el smoke tiene que cubrir el servicio del boton de prueba (#285)"
 }
