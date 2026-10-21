@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.10.20.20.58.22",
-    "published_at":  "2026-10-20T21:03:05Z",
+    "version":  "2026.10.21.12.09.19",
+    "published_at":  "2026-10-21T12:13:58Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "7e9becebbf421204238bc5215cb9c6cca22d32b3fb9e505568805aad45b2115f",
-    "source_commit":  "1bc53f84d55b200abd1382e52302e911b8beb61f",
+    "sha256":  "8a3d7ce2d6a94f58fc85ce93f17b765f51f6ea9fa9a121d120738f394c1cb4b3",
+    "source_commit":  "96208f2920ef44c78627f8856271ee9fc7587aa3",
     "automated_validation":  "passed",
-    "notes":  "Merge pull request #286 from oscarvogel/codex/fix-panel-errores-tests-y-config"
+    "notes":  "Merge pull request #287 from oscarvogel/codex/informe-inventario-neumaticos"
 }
