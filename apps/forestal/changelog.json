@@ -74,6 +74,13 @@
                          "notes":  [
                                        "Agrega el informe de inventario de neumaticos: muestra las ruedas que hay en bodega, las montadas en los vehiculos, las que estan en el proveedor y las dadas de baja, con filtros por ubicacion, estado y marca, y exportacion a Excel."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.21.17.30.51",
+                         "published_at":  "2026-10-21T17:59:43Z",
+                         "notes":  [
+                                       "Al imprimir una orden de mantenimiento ahora se ofrece la planilla de relevamiento de neumaticos del movil: lista las ruedas que tiene cargadas y, cuando todavia no hay ninguna, sale en blanco para que el mecanico las registre a mano."
+                                   ]
                      }
                  ]
 }
