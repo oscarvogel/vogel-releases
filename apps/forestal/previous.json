@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "previous",
-    "version":  "2026.10.20.20.58.22",
-    "published_at":  "2026-10-21T11:10:05Z",
+    "version":  "2026.10.21.12.09.19",
+    "published_at":  "2026-10-21T12:16:11Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/Forestal_Produccion_Setup.exe",
-    "sha256":  "7e9becebbf421204238bc5215cb9c6cca22d32b3fb9e505568805aad45b2115f",
-    "source_commit":  "1bc53f84d55b200abd1382e52302e911b8beb61f",
+    "sha256":  "8a3d7ce2d6a94f58fc85ce93f17b765f51f6ea9fa9a121d120738f394c1cb4b3",
+    "source_commit":  "96208f2920ef44c78627f8856271ee9fc7587aa3",
     "automated_validation":  "passed",
-    "notes":  "Se habilita el modulo de neumaticos del Mantenimiento: siete pantallas nuevas con iconos propios (alta, marcas, medidas, ubicaciones, envio y recepcion con proveedor, y consulta por movil). Se puede mandar un lote de neumaticos a recapar y recibirlos de vuelta del proveedor, cargando el costo del recapado rueda por rueda. Al ingresar un movil a mantenimiento se ofrece la planilla de relevamiento de sus ruedas, lista para imprimir. Se cargan los datos de marcas, medidas y ubicaciones de neumaticos, y se corrigen los pneumaticos que tenian la ubicacion o el proveedor mal guardados."
+    "notes":  "Agrega el informe de inventario de neumaticos: muestra las ruedas que hay en bodega, las montadas en los vehiculos, las que estan en el proveedor y las dadas de baja, con filtros por ubicacion, estado y marca, y exportacion a Excel."
 }
