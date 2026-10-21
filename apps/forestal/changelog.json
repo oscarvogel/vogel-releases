@@ -67,6 +67,13 @@
                                        "Al ingresar un movil a mantenimiento se ofrece la planilla de relevamiento de sus ruedas, lista para imprimir.",
                                        "Se cargan los datos de marcas, medidas y ubicaciones de neumaticos, y se corrigen los pneumaticos que tenian la ubicacion o el proveedor mal guardados."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.21.12.09.19",
+                         "published_at":  "2026-10-21T12:16:11Z",
+                         "notes":  [
+                                       "Agrega el informe de inventario de neumaticos: muestra las ruedas que hay en bodega, las montadas en los vehiculos, las que estan en el proveedor y las dadas de baja, con filtros por ubicacion, estado y marca, y exportacion a Excel."
+                                   ]
                      }
                  ]
 }
