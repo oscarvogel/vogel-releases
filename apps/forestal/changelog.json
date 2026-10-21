@@ -57,6 +57,16 @@
                          "notes":  [
                                        "Los informes en PDF ahora identifican como autor a Jose Oscar Vogel y el sitio vogelconsultoria.com.ar."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.20.20.58.22",
+                         "published_at":  "2026-10-21T11:10:05Z",
+                         "notes":  [
+                                       "Se habilita el modulo de neumaticos del Mantenimiento: siete pantallas nuevas con iconos propios (alta, marcas, medidas, ubicaciones, envio y recepcion con proveedor, y consulta por movil).",
+                                       "Se puede mandar un lote de neumaticos a recapar y recibirlos de vuelta del proveedor, cargando el costo del recapado rueda por rueda.",
+                                       "Al ingresar un movil a mantenimiento se ofrece la planilla de relevamiento de sus ruedas, lista para imprimir.",
+                                       "Se cargan los datos de marcas, medidas y ubicaciones de neumaticos, y se corrigen los pneumaticos que tenian la ubicacion o el proveedor mal guardados."
+                                   ]
                      }
                  ]
 }
