@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "previous",
-    "version":  "2026.10.21.12.09.19",
-    "published_at":  "2026-10-21T12:16:11Z",
+    "version":  "2026.10.21.17.30.51",
+    "published_at":  "2026-10-21T17:59:43Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/Forestal_Produccion_Setup.exe",
-    "sha256":  "8a3d7ce2d6a94f58fc85ce93f17b765f51f6ea9fa9a121d120738f394c1cb4b3",
-    "source_commit":  "96208f2920ef44c78627f8856271ee9fc7587aa3",
+    "sha256":  "de38f009e2ce1a978af40ac829d067a67defe6d387ec5b501fb40ecb8db20bd3",
+    "source_commit":  "5b671a31deccbea1de3687e72a1b0ea08490d2ee",
     "automated_validation":  "passed",
-    "notes":  "Agrega el informe de inventario de neumaticos: muestra las ruedas que hay en bodega, las montadas en los vehiculos, las que estan en el proveedor y las dadas de baja, con filtros por ubicacion, estado y marca, y exportacion a Excel."
+    "notes":  "Al imprimir una orden de mantenimiento ahora se ofrece la planilla de relevamiento de neumaticos del movil: lista las ruedas que tiene cargadas y, cuando todavia no hay ninguna, sale en blanco para que el mecanico las registre a mano."
 }
