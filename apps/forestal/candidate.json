@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.10.21.17.30.51",
-    "published_at":  "2026-10-21T17:37:03Z",
+    "version":  "2026.10.22.13.12.25",
+    "published_at":  "2026-10-22T13:16:48Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "de38f009e2ce1a978af40ac829d067a67defe6d387ec5b501fb40ecb8db20bd3",
-    "source_commit":  "5b671a31deccbea1de3687e72a1b0ea08490d2ee",
+    "sha256":  "6e1a59da5a141bd71bd0cd6bfc49d6a2ee3da0f5f5a3f6ff1e5b0c8cc023685e",
+    "source_commit":  "ece12d9c65627d3eaebcfcd531a44c9b432bb4dc",
     "automated_validation":  "passed",
-    "notes":  "Merge pull request #288 from oscarvogel/codex/planilla-neumaticos-imprimir-orden"
+    "notes":  "Merge pull request #290 from oscarvogel/codex/neumaticos-croquis-ubicacion"
 }
