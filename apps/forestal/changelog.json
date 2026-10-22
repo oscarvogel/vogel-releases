@@ -1,108 +1,108 @@
 {
-    "schema_version":  1,
-    "app_id":  "forestal",
-    "versions":  [
-                     {
-                         "version":  "2026.08.29.14.20.56",
-                         "published_at":  "2026-08-29T14:24:06Z",
-                         "notes":  [
-                                       "changelog acumulado y novedades por versión"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.08.31.17.06.44",
-                         "published_at":  "2026-08-31T17:10:04Z",
-                         "notes":  [
-                                       "noop"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.08.31.17.16.37",
-                         "published_at":  "2026-08-31T17:19:41Z",
-                         "notes":  [
-                                       "Revert accidental noop file"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.09.15.21.27.07",
-                         "published_at":  "2026-09-15T21:36:17Z",
-                         "notes":  [
-                                       "feat(repuestos): bandeja, filtros, alertas y detalle (#252) (#259)"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.09.21.19.02.43",
-                         "published_at":  "2026-09-21T19:15:31Z",
-                         "notes":  [
-                                       "fix: evitar fallo por BOM en sistema.ini y detectar Inno Setup"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.16.11.52.23",
-                         "published_at":  "2026-10-16T12:01:30Z",
-                         "notes":  [
-                                       "Corrige el error de permisos al exportar el informe de ordenes de servicio a Excel. Ahora cada exportacion genera un archivo nuevo y no falla si el reporte anterior sigue abierto."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.16.12.19.29",
-                         "published_at":  "2026-10-16T12:27:51Z",
-                         "notes":  [
-                                       "Actualiza la marca: los reportes de error ahora usan vogelconsultoria.com.ar (antes servinlgsm.com.ar). Tambien corrige el error de permisos al exportar el informe de ordenes de servicio a Excel."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.16.12.41.04",
-                         "published_at":  "2026-10-16T12:48:21Z",
-                         "notes":  [
-                                       "Los informes en PDF ahora identifican como autor a Jose Oscar Vogel y el sitio vogelconsultoria.com.ar."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.20.20.58.22",
-                         "published_at":  "2026-10-21T11:10:05Z",
-                         "notes":  [
-                                       "Se habilita el modulo de neumaticos del Mantenimiento: siete pantallas nuevas con iconos propios (alta, marcas, medidas, ubicaciones, envio y recepcion con proveedor, y consulta por movil).",
-                                       "Se puede mandar un lote de neumaticos a recapar y recibirlos de vuelta del proveedor, cargando el costo del recapado rueda por rueda.",
-                                       "Al ingresar un movil a mantenimiento se ofrece la planilla de relevamiento de sus ruedas, lista para imprimir.",
-                                       "Se cargan los datos de marcas, medidas y ubicaciones de neumaticos, y se corrigen los pneumaticos que tenian la ubicacion o el proveedor mal guardados."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.21.12.09.19",
-                         "published_at":  "2026-10-21T12:16:11Z",
-                         "notes":  [
-                                       "Agrega el informe de inventario de neumaticos: muestra las ruedas que hay en bodega, las montadas en los vehiculos, las que estan en el proveedor y las dadas de baja, con filtros por ubicacion, estado y marca, y exportacion a Excel."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.21.17.30.51",
-                         "published_at":  "2026-10-21T17:59:43Z",
-                         "notes":  [
-                                       "Al imprimir una orden de mantenimiento ahora se ofrece la planilla de relevamiento de neumaticos del movil: lista las ruedas que tiene cargadas y, cuando todavia no hay ninguna, sale en blanco para que el mecanico las registre a mano."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.22.13.12.25",
-                         "published_at":  "2026-10-22T13:21:29Z",
-                         "notes":  [
-                                       "Ahora se puede guardar en que rueda esta cada neumatico: el operador ubica la rueda por eje y por lado, y el croquis dibuja el vehiculo con las ruedas en su lugar.",
-                                       "La planilla de relevamiento ahora incluye el croquis del vehiculo, para que el mecanico marque las ruedas en el dibujo.",
-                                       "Se puede cargar a mano el equipo acoplado (el bitren con sus dos semirremolques), que antes solo se proponia a partir de la base.",
-                                       "El catalogo de ejes se muestra con nombres claros: \u0027Tractor 3 ejes (6x4)\u0027 en lugar de \u00276x4\u0027.",
-                                       "El informe de inventario mostraba los importes en guaranies; ahora los muestra en pesos.",
-                                       "El equipo acoplado se llama bitren (bi + dos semirremolques), como lo llama el taller."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.10.22.19.46.36",
-                         "published_at":  "2026-10-22T19:56:22Z",
-                         "notes":  [
-                                       "Pantalla de ubicacion de ruedas con el croquis de la unidad: ahora se ve donde va cada rueda y se elige apretando la rueda del dibujo.",
-                                       "Las ruedas en bodega y las de la unidad se buscan por marca, modelo o numero de fuego, sin tener que scrollear la lista.",
-                                       "La posicion de la rueda se guarda al elegirla: ya no hay que apretar un boton aparte para que el trabajo no se pierda.",
-                                       "Se corrigio un error que impedia guardar la asignacion de neumaticos a un movil."
-                                   ]
-                     }
-                 ]
+  "schema_version": 1,
+  "app_id": "forestal",
+  "versions": [
+    {
+      "version": "2026.08.29.14.20.56",
+      "published_at": "2026-08-29T14:24:06Z",
+      "notes": [
+        "changelog acumulado y novedades por versión"
+      ]
+    },
+    {
+      "version": "2026.08.31.17.06.44",
+      "published_at": "2026-08-31T17:10:04Z",
+      "notes": [
+        "noop"
+      ]
+    },
+    {
+      "version": "2026.08.31.17.16.37",
+      "published_at": "2026-08-31T17:19:41Z",
+      "notes": [
+        "Revert accidental noop file"
+      ]
+    },
+    {
+      "version": "2026.09.15.21.27.07",
+      "published_at": "2026-09-15T21:36:17Z",
+      "notes": [
+        "feat(repuestos): bandeja, filtros, alertas y detalle (#252) (#259)"
+      ]
+    },
+    {
+      "version": "2026.09.21.19.02.43",
+      "published_at": "2026-09-21T19:15:31Z",
+      "notes": [
+        "fix: evitar fallo por BOM en sistema.ini y detectar Inno Setup"
+      ]
+    },
+    {
+      "version": "2026.10.16.11.52.23",
+      "published_at": "2026-10-16T12:01:30Z",
+      "notes": [
+        "Corrige el error de permisos al exportar el informe de ordenes de servicio a Excel. Ahora cada exportacion genera un archivo nuevo y no falla si el reporte anterior sigue abierto."
+      ]
+    },
+    {
+      "version": "2026.10.16.12.19.29",
+      "published_at": "2026-10-16T12:27:51Z",
+      "notes": [
+        "Actualiza la marca: los reportes de error ahora usan vogelconsultoria.com.ar (antes servinlgsm.com.ar). Tambien corrige el error de permisos al exportar el informe de ordenes de servicio a Excel."
+      ]
+    },
+    {
+      "version": "2026.10.16.12.41.04",
+      "published_at": "2026-10-16T12:48:21Z",
+      "notes": [
+        "Los informes en PDF ahora identifican como autor a Jose Oscar Vogel y el sitio vogelconsultoria.com.ar."
+      ]
+    },
+    {
+      "version": "2026.10.20.20.58.22",
+      "published_at": "2026-10-21T11:10:05Z",
+      "notes": [
+        "Se habilita el modulo de neumaticos del Mantenimiento: siete pantallas nuevas con iconos propios (alta, marcas, medidas, ubicaciones, envio y recepcion con proveedor, y consulta por movil).",
+        "Se puede mandar un lote de neumaticos a recapar y recibirlos de vuelta del proveedor, cargando el costo del recapado rueda por rueda.",
+        "Al ingresar un movil a mantenimiento se ofrece la planilla de relevamiento de sus ruedas, lista para imprimir.",
+        "Se cargan los datos de marcas, medidas y ubicaciones de neumaticos, y se corrigen los pneumaticos que tenian la ubicacion o el proveedor mal guardados."
+      ]
+    },
+    {
+      "version": "2026.10.21.12.09.19",
+      "published_at": "2026-10-21T12:16:11Z",
+      "notes": [
+        "Agrega el informe de inventario de neumaticos: muestra las ruedas que hay en bodega, las montadas en los vehiculos, las que estan en el proveedor y las dadas de baja, con filtros por ubicacion, estado y marca, y exportacion a Excel."
+      ]
+    },
+    {
+      "version": "2026.10.21.17.30.51",
+      "published_at": "2026-10-21T17:59:43Z",
+      "notes": [
+        "Al imprimir una orden de mantenimiento ahora se ofrece la planilla de relevamiento de neumaticos del movil: lista las ruedas que tiene cargadas y, cuando todavia no hay ninguna, sale en blanco para que el mecanico las registre a mano."
+      ]
+    },
+    {
+      "version": "2026.10.22.13.12.25",
+      "published_at": "2026-10-22T13:21:29Z",
+      "notes": [
+        "Ahora se puede guardar en que rueda esta cada neumatico: el operador ubica la rueda por eje y por lado, y el croquis dibuja el vehiculo con las ruedas en su lugar.",
+        "La planilla de relevamiento ahora incluye el croquis del vehiculo, para que el mecanico marque las ruedas en el dibujo.",
+        "Se puede cargar a mano el equipo acoplado (el bitren con sus dos semirremolques), que antes solo se proponia a partir de la base.",
+        "El catalogo de ejes se muestra con nombres claros: 'Tractor 3 ejes (6x4)' en lugar de '6x4'.",
+        "El informe de inventario mostraba los importes en guaranies; ahora los muestra en pesos.",
+        "El equipo acoplado se llama bitren (bi + dos semirremolques), como lo llama el taller."
+      ]
+    },
+    {
+      "version": "2026.10.22.19.46.36",
+      "published_at": "2026-10-22T19:56:22Z",
+      "notes": [
+        "Pantalla de ubicación de ruedas con el croquis de la unidad: ahora se ve dónde va cada rueda y se elige apretando la rueda del dibujo.",
+        "Las ruedas en bodega y las de la unidad se buscan por marca, modelo o número de fuego, sin tener que scrollear la lista.",
+        "La posición de la rueda se guarda al elegirla: ya no hay que apretar un botón aparte para que el trabajo no se pierda.",
+        "Se corrigió un error que impedía guardar la asignación de neumáticos a un móvil."
+      ]
+    }
+  ]
 }
