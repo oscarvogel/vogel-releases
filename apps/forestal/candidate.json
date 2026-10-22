@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.10.22.13.12.25",
-    "published_at":  "2026-10-22T13:16:48Z",
+    "version":  "2026.10.22.19.46.36",
+    "published_at":  "2026-10-22T19:52:02Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "6e1a59da5a141bd71bd0cd6bfc49d6a2ee3da0f5f5a3f6ff1e5b0c8cc023685e",
-    "source_commit":  "ece12d9c65627d3eaebcfcd531a44c9b432bb4dc",
+    "sha256":  "bbba7e4f17eeae31260b395e2ecba2322484f3abfd4750aab0859193ff9171e0",
+    "source_commit":  "a019babf8b27d9ce9ab526f4e4f3c39c2654d4a7",
     "automated_validation":  "passed",
-    "notes":  "Merge pull request #290 from oscarvogel/codex/neumaticos-croquis-ubicacion"
+    "notes":  "Merge pull request #291 from oscarvogel/codex/neumaticos-croquis-ubicacion"
 }
