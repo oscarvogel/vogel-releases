@@ -81,6 +81,18 @@
                          "notes":  [
                                        "Al imprimir una orden de mantenimiento ahora se ofrece la planilla de relevamiento de neumaticos del movil: lista las ruedas que tiene cargadas y, cuando todavia no hay ninguna, sale en blanco para que el mecanico las registre a mano."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.22.13.12.25",
+                         "published_at":  "2026-10-22T13:21:29Z",
+                         "notes":  [
+                                       "Ahora se puede guardar en que rueda esta cada neumatico: el operador ubica la rueda por eje y por lado, y el croquis dibuja el vehiculo con las ruedas en su lugar.",
+                                       "La planilla de relevamiento ahora incluye el croquis del vehiculo, para que el mecanico marque las ruedas en el dibujo.",
+                                       "Se puede cargar a mano el equipo acoplado (el bitren con sus dos semirremolques), que antes solo se proponia a partir de la base.",
+                                       "El catalogo de ejes se muestra con nombres claros: \u0027Tractor 3 ejes (6x4)\u0027 en lugar de \u00276x4\u0027.",
+                                       "El informe de inventario mostraba los importes en guaranies; ahora los muestra en pesos.",
+                                       "El equipo acoplado se llama bitren (bi + dos semirremolques), como lo llama el taller."
+                                   ]
                      }
                  ]
 }
