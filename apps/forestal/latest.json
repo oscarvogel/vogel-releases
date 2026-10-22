@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "latest",
-    "version":  "2026.10.21.17.30.51",
-    "published_at":  "2026-10-21T17:59:43Z",
+    "version":  "2026.10.22.13.12.25",
+    "published_at":  "2026-10-22T13:21:29Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-    "sha256":  "de38f009e2ce1a978af40ac829d067a67defe6d387ec5b501fb40ecb8db20bd3",
-    "source_commit":  "5b671a31deccbea1de3687e72a1b0ea08490d2ee",
+    "sha256":  "6e1a59da5a141bd71bd0cd6bfc49d6a2ee3da0f5f5a3f6ff1e5b0c8cc023685e",
+    "source_commit":  "ece12d9c65627d3eaebcfcd531a44c9b432bb4dc",
     "automated_validation":  "passed",
-    "notes":  "Al imprimir una orden de mantenimiento ahora se ofrece la planilla de relevamiento de neumaticos del movil: lista las ruedas que tiene cargadas y, cuando todavia no hay ninguna, sale en blanco para que el mecanico las registre a mano."
+    "notes":  "Ahora se puede guardar en que rueda esta cada neumatico: el operador ubica la rueda por eje y por lado, y el croquis dibuja el vehiculo con las ruedas en su lugar. La planilla de relevamiento ahora incluye el croquis del vehiculo, para que el mecanico marque las ruedas en el dibujo. Se puede cargar a mano el equipo acoplado (el bitren con sus dos semirremolques), que antes solo se proponia a partir de la base. El catalogo de ejes se muestra con nombres claros: \u0027Tractor 3 ejes (6x4)\u0027 en lugar de \u00276x4\u0027. El informe de inventario mostraba los importes en guaranies; ahora los muestra en pesos. El equipo acoplado se llama bitren (bi + dos semirremolques), como lo llama el taller."
 }
