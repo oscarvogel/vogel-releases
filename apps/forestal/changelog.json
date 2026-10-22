@@ -93,6 +93,16 @@
                                        "El informe de inventario mostraba los importes en guaranies; ahora los muestra en pesos.",
                                        "El equipo acoplado se llama bitren (bi + dos semirremolques), como lo llama el taller."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.22.19.46.36",
+                         "published_at":  "2026-10-22T19:56:22Z",
+                         "notes":  [
+                                       "Pantalla de ubicacion de ruedas con el croquis de la unidad: ahora se ve donde va cada rueda y se elige apretando la rueda del dibujo.",
+                                       "Las ruedas en bodega y las de la unidad se buscan por marca, modelo o numero de fuego, sin tener que scrollear la lista.",
+                                       "La posicion de la rueda se guarda al elegirla: ya no hay que apretar un boton aparte para que el trabajo no se pierda.",
+                                       "Se corrigio un error que impedia guardar la asignacion de neumaticos a un movil."
+                                   ]
                      }
                  ]
 }
