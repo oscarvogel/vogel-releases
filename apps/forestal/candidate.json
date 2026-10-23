@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.10.22.22.30.36",
-    "published_at":  "2026-10-22T22:36:02Z",
+    "version":  "2026.10.23.21.03.16",
+    "published_at":  "2026-10-23T21:06:22Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "bc0d9d933ec396e09a1a00b7b8b9e917bc9ebd2ad03dcd358067f2592bd89b91",
-    "source_commit":  "08d4fff3fffa36eb190376359f06a4596af55c70",
+    "sha256":  "7090b943adae1cc3579cc1e5f642c49b31c2b44e959648317eef3adc925b4036",
+    "source_commit":  "d566dd137ad72bfb515a7fbe32ba7f353f5daa5c",
     "automated_validation":  "passed",
-    "notes":  "docs(neumaticos): registra el merge del PR 292 en main"
+    "notes":  "Merge pull request #314 from oscarvogel/codex/auditoria-registro-tests"
 }
