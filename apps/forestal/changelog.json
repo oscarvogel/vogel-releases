@@ -113,6 +113,16 @@
                                        "El tablero de proximos mantenimientos del Inicio ahora usa la periodicidad configurada en cada maquina y no la del plan maestro.",
                                        "Se agrego una herramienta para copiar el plan preventivo de una maquina a otra, sin cargarlo tarea por tarea y sin tocar el historial."
                                    ]
+                     },
+                     {
+                         "version":  "2026.10.27.17.12.30",
+                         "published_at":  "2026-10-27T18:24:40Z",
+                         "notes":  [
+                                       "Nueva pantalla para importar el mapa de cubiertas desde Excel.",
+                                       "Alta automática de las cubiertas que faltan en el sistema.",
+                                       "Nuevas configuraciones para módulos de 2 y 3 ejes y carretones.",
+                                       "Mejoras en la consulta y en el acople de semirremolques."
+                                   ]
                      }
                  ]
 }
