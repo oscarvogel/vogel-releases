@@ -1,132 +1,141 @@
 {
-  "schema_version": 1,
-  "app_id": "forestal-escritorio",
-  "promotions": [
-    {
-      "version": "2026.09.04.10.38.58",
-      "sha256": "0fbfed345f64e988ea7d222388811ed4bea42f7b23bc48f8d0da09dd3214a024",
-      "promoted_at": "2026-09-04T11:26:11Z",
-      "source_commit": "a347b473390f7a8d13923df912bd10221b0e926f",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-04",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.09.12.12.40.44",
-      "sha256": "4ddb36533a410c794917d40823f558ab4141deffdd2eeaa62d51d0376b89d77f",
-      "promoted_at": "2026-09-12T14:16:34Z",
-      "source_commit": "4b5c35ee8adf9c84f419db7c594b261a99be9816",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-12-141635",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.09.14.18.36.03",
-      "sha256": "e8b0b04eb71d29bd86d9b97fe0f9ddd1ab3e1a461adb1223b81d0c7e7d6b5941",
-      "promoted_at": "2026-09-18T12:22:43Z",
-      "source_commit": "dd2d977b099b9a955e74e8ed9cdd51742b8926dc",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-18-122245",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.09.18.13.54.45",
-      "sha256": "038432ba4c6b5c40106c74d9f5e4dbc09362f5445dae8f7ea3a44104435910bc",
-      "promoted_at": "2026-09-18T14:25:00Z",
-      "source_commit": "978489994a388db78e79fb4b0894684a372abbbf",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-18",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.09.22.12.54.32",
-      "sha256": "5bc8d7076b2f7be348b5640e6dc74394854afd664df416280d241c7bab79c658",
-      "promoted_at": "2026-09-22T13:51:11Z",
-      "source_commit": "0c3924f5d96d54f452ff0a07fdb4dc45be3b1db5",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-22-135113",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.09.30.19.59.51",
-      "sha256": "02da58b8b818c5c07f9db7723a9a7b10156291b2bd760b471e6512853994223a",
-      "promoted_at": "2026-09-30T21:23:35Z",
-      "source_commit": "8943a4ba0f27a434cb1e424a4acb06078214f24f",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-09-30-212336",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.06.18.24.04",
-      "sha256": "20fdccc20a9ce6a0ef9d59c904f47e42f6788bd1f6a0c32e8cab1d4607a7f237",
-      "promoted_at": "2026-10-06T20:36:33Z",
-      "source_commit": "4b2e9a0b20e895964fba28df4162ff341dd26e5a",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-06-203633",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.09.11.31.01",
-      "sha256": "8177dea6dda4404cc7b8206004a6dd6a0848977a1f95f9386def28205baf6f78",
-      "promoted_at": "2026-10-09T11:43:16Z",
-      "source_commit": "2f1bd980c57ab0fc0b29eb94e6d69e335182343e",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-09-114316-recovered",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.15.18.38.02",
-      "sha256": "b7db0c9013cd94330a2ff2746913cbd4c9d06c21b547455dda2b0447d16bf4eb",
-      "promoted_at": "2026-10-15T18:49:05Z",
-      "source_commit": "71a1ad9eda4978f002fd32465407210833dfac43",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-15-184905",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.22.14.15.02",
-      "sha256": "1e86d5166e5ae932cf5a9c29bd77911b992cd40777a6ad5bf385bb269cbfe727",
-      "promoted_at": "2026-10-22T14:22:28Z",
-      "source_commit": "a68e5e0d53a5e918c4f315ee076c9ee9355c4944",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-20261022-141746Z",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.22.22.56.22",
-      "sha256": "0375043a72acabec890edb370f404f65ed5f415ec48b0dd873a7f661f0196681",
-      "promoted_at": "2026-10-22T23:03:37Z",
-      "source_commit": "6c13ca8ae077775d58ef6d9f1c9f5dfb40d3b7b2",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-22-230338",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.24.12.41.33",
-      "sha256": "b1c3e63ddab0b98f52c6aff219ff899b3fe155ee9b65c01d35a416ff6ca9fe24",
-      "promoted_at": "2026-10-24T14:36:01Z",
-      "source_commit": "b0db5c53d3c721466f6bd9aacb38a666958cecea",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-24-143602",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.25.11.18.46",
-      "sha256": "4ad1840670f8bda48492ec679a3ba5a44d699f02991de5de503202a72c4d2ed4",
-      "promoted_at": "2026-10-25T11:28:54Z",
-      "source_commit": "e5cd37e177742f4df37528b780570e2d02227fc0",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-25-112855",
-      "action": "promote_candidate"
-    },
-    {
-      "version": "2026.10.26.12.47.01",
-      "sha256": "941ea16d3359a005150a228637b6d6df241b9df0e73a10b7e6a91b55f8354538",
-      "promoted_at": "2026-10-26T13:00:56Z",
-      "source_commit": "9ddd1e81f3b5ccd8964702b41bf96a60ffaa538d",
-      "approved_by": "oscarvogel",
-      "workflow_run": "local-2026-10-26-130057",
-      "action": "promote_candidate"
-    }
-  ]
+    "schema_version":  1,
+    "app_id":  "forestal-escritorio",
+    "promotions":  [
+                       {
+                           "version":  "2026.09.04.10.38.58",
+                           "sha256":  "0fbfed345f64e988ea7d222388811ed4bea42f7b23bc48f8d0da09dd3214a024",
+                           "promoted_at":  "2026-09-04T11:26:11Z",
+                           "source_commit":  "a347b473390f7a8d13923df912bd10221b0e926f",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-04",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.09.12.12.40.44",
+                           "sha256":  "4ddb36533a410c794917d40823f558ab4141deffdd2eeaa62d51d0376b89d77f",
+                           "promoted_at":  "2026-09-12T14:16:34Z",
+                           "source_commit":  "4b5c35ee8adf9c84f419db7c594b261a99be9816",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-12-141635",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.09.14.18.36.03",
+                           "sha256":  "e8b0b04eb71d29bd86d9b97fe0f9ddd1ab3e1a461adb1223b81d0c7e7d6b5941",
+                           "promoted_at":  "2026-09-18T12:22:43Z",
+                           "source_commit":  "dd2d977b099b9a955e74e8ed9cdd51742b8926dc",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-18-122245",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.09.18.13.54.45",
+                           "sha256":  "038432ba4c6b5c40106c74d9f5e4dbc09362f5445dae8f7ea3a44104435910bc",
+                           "promoted_at":  "2026-09-18T14:25:00Z",
+                           "source_commit":  "978489994a388db78e79fb4b0894684a372abbbf",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-18",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.09.22.12.54.32",
+                           "sha256":  "5bc8d7076b2f7be348b5640e6dc74394854afd664df416280d241c7bab79c658",
+                           "promoted_at":  "2026-09-22T13:51:11Z",
+                           "source_commit":  "0c3924f5d96d54f452ff0a07fdb4dc45be3b1db5",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-22-135113",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.09.30.19.59.51",
+                           "sha256":  "02da58b8b818c5c07f9db7723a9a7b10156291b2bd760b471e6512853994223a",
+                           "promoted_at":  "2026-09-30T21:23:35Z",
+                           "source_commit":  "8943a4ba0f27a434cb1e424a4acb06078214f24f",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-09-30-212336",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.06.18.24.04",
+                           "sha256":  "20fdccc20a9ce6a0ef9d59c904f47e42f6788bd1f6a0c32e8cab1d4607a7f237",
+                           "promoted_at":  "2026-10-06T20:36:33Z",
+                           "source_commit":  "4b2e9a0b20e895964fba28df4162ff341dd26e5a",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-06-203633",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.09.11.31.01",
+                           "sha256":  "8177dea6dda4404cc7b8206004a6dd6a0848977a1f95f9386def28205baf6f78",
+                           "promoted_at":  "2026-10-09T11:43:16Z",
+                           "source_commit":  "2f1bd980c57ab0fc0b29eb94e6d69e335182343e",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-09-114316-recovered",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.15.18.38.02",
+                           "sha256":  "b7db0c9013cd94330a2ff2746913cbd4c9d06c21b547455dda2b0447d16bf4eb",
+                           "promoted_at":  "2026-10-15T18:49:05Z",
+                           "source_commit":  "71a1ad9eda4978f002fd32465407210833dfac43",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-15-184905",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.22.14.15.02",
+                           "sha256":  "1e86d5166e5ae932cf5a9c29bd77911b992cd40777a6ad5bf385bb269cbfe727",
+                           "promoted_at":  "2026-10-22T14:22:28Z",
+                           "source_commit":  "a68e5e0d53a5e918c4f315ee076c9ee9355c4944",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-20261022-141746Z",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.22.22.56.22",
+                           "sha256":  "0375043a72acabec890edb370f404f65ed5f415ec48b0dd873a7f661f0196681",
+                           "promoted_at":  "2026-10-22T23:03:37Z",
+                           "source_commit":  "6c13ca8ae077775d58ef6d9f1c9f5dfb40d3b7b2",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-22-230338",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.24.12.41.33",
+                           "sha256":  "b1c3e63ddab0b98f52c6aff219ff899b3fe155ee9b65c01d35a416ff6ca9fe24",
+                           "promoted_at":  "2026-10-24T14:36:01Z",
+                           "source_commit":  "b0db5c53d3c721466f6bd9aacb38a666958cecea",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-24-143602",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.25.11.18.46",
+                           "sha256":  "4ad1840670f8bda48492ec679a3ba5a44d699f02991de5de503202a72c4d2ed4",
+                           "promoted_at":  "2026-10-25T11:28:54Z",
+                           "source_commit":  "e5cd37e177742f4df37528b780570e2d02227fc0",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-25-112855",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.26.12.47.01",
+                           "sha256":  "941ea16d3359a005150a228637b6d6df241b9df0e73a10b7e6a91b55f8354538",
+                           "promoted_at":  "2026-10-26T13:00:56Z",
+                           "source_commit":  "9ddd1e81f3b5ccd8964702b41bf96a60ffaa538d",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-26-130057",
+                           "action":  "promote_candidate"
+                       },
+                       {
+                           "version":  "2026.10.29.18.53.54",
+                           "sha256":  "5933d9aca709112f400ef0bebbd9d641542bf7710905cf34ceb65df142b63e5b",
+                           "promoted_at":  "2026-10-29T19:41:22Z",
+                           "source_commit":  "9cc1747caf46f4470e4dc2d97a2656af20e88e80",
+                           "approved_by":  "oscarvogel",
+                           "workflow_run":  "local-2026-10-29-194124",
+                           "action":  "promote_candidate"
+                       }
+                   ]
 }
