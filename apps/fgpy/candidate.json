@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.10.20.12.36.18",
-    "published_at":  "2026-10-20T12:40:31Z",
+    "version":  "2026.11.02.10.41.11",
+    "published_at":  "2026-11-02T10:44:37Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "1413d57e28bffff3ecfa4efe21e63266cd6552b9a3bc1b35bda4193963a691d6",
-    "source_commit":  "6a652d276fa8cad25f36518de105402307b0b4dc",
+    "sha256":  "73961489da180366f4584285d0642084716ae86b8cd9d9f91e7f7a38f3b3879e",
+    "source_commit":  "c9f578086ed8e3c30d7c5da2aab65c8f72547f63",
     "automated_validation":  "passed",
-    "notes":  "fix(release): el smoke tiene que cubrir el servicio del boton de prueba (#285)"
+    "notes":  "Merge pull request #319 from oscarvogel/codex/mensaje-unidad-negocio"
 }
