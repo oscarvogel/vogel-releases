@@ -1,13 +1,12 @@
 {
-    "schema_version":  1,
-    "app_id":  "forestal",
-    "channel":  "candidate",
-    "version":  "2026.11.07.14.56.21",
-    "published_at":  "2026-11-07T14:58:45Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "1993684b701408222b6ee4ed69e13f62d69b8e45adb3a1d694eb6a9add9aa004",
-    "source_commit":  "b556bb03c9e2149676d097d740e4da2d99d36c25",
-    "automated_validation":  "passed",
-    "notes":  "Merge pull request #320 from oscarvogel/codex/simplificar-registro-orden-servicio"
+  "schema_version": 1,
+  "app_id": "forestal",
+  "channel": "candidate",
+  "version": "2026.11.09.12.50.01",
+  "published_at": "2026-11-09T12:53:05Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
+  "sha256": "4cb4090f96fec2839d70d433e88c10ad826aa6e2a79ea6da2c5426092125fbc2",
+  "source_commit": "9d34dc1d57da2ca512f069292dd14b51c05a4fd6",
+  "notes": "Candidate pendiente de validacion en PC piloto."
 }
