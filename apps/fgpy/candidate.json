@@ -1,13 +1,12 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.02.10.41.11",
-    "published_at":  "2026-11-02T10:44:37Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "73961489da180366f4584285d0642084716ae86b8cd9d9f91e7f7a38f3b3879e",
-    "source_commit":  "c9f578086ed8e3c30d7c5da2aab65c8f72547f63",
-    "automated_validation":  "passed",
-    "notes":  "Merge pull request #319 from oscarvogel/codex/mensaje-unidad-negocio"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.09.12.45.14",
+  "published_at": "2026-11-09T12:48:21Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "181d896dec8cc42efd6fa524365d5ab341b799243e963ad8a88a1f572f410f88",
+  "source_commit": "9d34dc1d57da2ca512f069292dd14b51c05a4fd6",
+  "notes": "Candidate pendiente de validacion en PC piloto."
 }
