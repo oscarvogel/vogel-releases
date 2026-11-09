@@ -2,11 +2,11 @@
   "schema_version": 1,
   "app_id": "forestal",
   "channel": "candidate",
-  "version": "2026.11.09.12.50.01",
-  "published_at": "2026-11-09T12:53:05Z",
+  "version": "2026.11.09.17.15.49",
+  "published_at": "2026-11-09T17:18:33Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-  "sha256": "4cb4090f96fec2839d70d433e88c10ad826aa6e2a79ea6da2c5426092125fbc2",
-  "source_commit": "9d34dc1d57da2ca512f069292dd14b51c05a4fd6",
+  "sha256": "54d86092b00166725733cbafdf8b27020662432a449db6ed3ccce67ad6a7608b",
+  "source_commit": "021638b73191566ea2586d05ef4a487c31ad96f2",
   "notes": "Candidate pendiente de validacion en PC piloto."
 }
