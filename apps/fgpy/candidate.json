@@ -2,11 +2,12 @@
   "schema_version": 1,
   "app_id": "fgpy",
   "channel": "candidate",
-  "version": "2026.11.10.10.48.10",
-  "published_at": "2026-11-10T10:52:01Z",
+  "version": "2026.11.10.10.57.45",
+  "published_at": "2026-11-10T11:01:20Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-  "sha256": "a666dcf3f640c030ef3878c2e82413de5124c47fa08e94fa3a1953a713cc7c55",
-  "source_commit": "8868474fd4be2b3553b816f0998d99708f4ccd92",
-  "notes": "Candidate pendiente de validacion en PC piloto."
+  "sha256": "0ac9345ebae46991781d2f84e5f8f761290218932e857c87edf001ee6611e925",
+  "source_commit": "6df2cfd6e79de0365866922882531552f317630c",
+  "notes": "Candidate pendiente de validacion en PC piloto.",
+  "changelog_notes": "Actualizaciones varias del sistema."
 }
