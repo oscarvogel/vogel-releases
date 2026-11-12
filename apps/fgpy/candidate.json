@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.12.17.19.08",
-    "published_at":  "2026-11-12T17:23:01Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "2ac51e2359ba056849c25e3e59eadfcab93a5208594d82bf92b53ae69c00f761",
-    "source_commit":  "5ea414ce714ce80a2fcce7d43f147b9a6914d3ef",
-    "automated_validation":  "passed",
-    "notes":  "Merge pull request #334 from oscarvogel/codex/lectura-unificada-preventivo"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.12.17.20.34",
+  "published_at": "2026-11-12T17:24:00Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "bd9a686f843f51c7a2c48e1e6f56868e6c1acf1509b72b4bca07d55d74a859ed",
+  "source_commit": "5ea414ce714ce80a2fcce7d43f147b9a6914d3ef",
+  "notes": "Candidate pendiente de validacion en PC piloto.",
+  "changelog_notes": "Actualizaciones varias del sistema."
 }
