@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "app_id": "fgpy",
-  "channel": "candidate",
-  "version": "2026.11.12.16.54.32",
-  "published_at": "2026-11-12T16:57:49Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-  "sha256": "defc6d1d9a2c6659df714de498b04372c99c1207120f92eb20f209213c3609e3",
-  "source_commit": "60f59514a56fbf731a8d989aaa234f33477b584a",
-  "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "Actualizaciones varias del sistema."
+    "schema_version":  1,
+    "app_id":  "fgpy",
+    "channel":  "candidate",
+    "version":  "2026.11.12.17.19.08",
+    "published_at":  "2026-11-12T17:23:01Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+    "sha256":  "2ac51e2359ba056849c25e3e59eadfcab93a5208594d82bf92b53ae69c00f761",
+    "source_commit":  "5ea414ce714ce80a2fcce7d43f147b9a6914d3ef",
+    "automated_validation":  "passed",
+    "notes":  "Merge pull request #334 from oscarvogel/codex/lectura-unificada-preventivo"
 }
