@@ -2,12 +2,11 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "previous",
-    "version":  "2026.10.27.17.12.30",
-    "published_at":  "2026-11-04T19:00:07Z",
+    "version":  "2026.11.09.17.15.49",
+    "published_at":  "2026-11-09T17:21:50Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/Forestal_Produccion_Setup.exe",
-    "sha256":  "18de0cf670f8a3b399d7dcc6f1d9b285be651b9bd3cc77b40ef37fd7e8eb3625",
-    "source_commit":  "cdf750285d27967f81128ff0589ebc1be9101eef",
-    "automated_validation":  "passed",
-    "notes":  "Nueva pantalla para importar el mapa de cubiertas desde Excel. Alta automática de las cubiertas que faltan en el sistema. Nuevas configuraciones para módulos de 2 y 3 ejes y carretones. Mejoras en la consulta y en el acople de semirremolques."
+    "sha256":  "54d86092b00166725733cbafdf8b27020662432a449db6ed3ccce67ad6a7608b",
+    "source_commit":  "021638b73191566ea2586d05ef4a487c31ad96f2",
+    "notes":  "Candidate pendiente de validacion en PC piloto."
 }
