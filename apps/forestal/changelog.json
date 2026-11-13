@@ -141,6 +141,14 @@
                                        "La pantalla de planes por maquina mejora: las columnas se ajustan al contenido, se agrega un boton para limpiar los filtros y con doble clic se ven las tareas del equipo.",
                                        "La actualizacion de la base ya no se interrumpe si falta la tabla de pneumaticos, y los archivos de registro se guardan junto al programa cuando no existe la carpeta de logs."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.13.20.36.00",
+                         "published_at":  "2026-11-13T20:42:19Z",
+                         "notes":  [
+                                       "Se agrega la carga rapida de correctivos: desde el tablero preventivo se puede registrar un correctivo en segundos (fecha, km/hora, equipo, unidad de negocio y detalle), sin pasar por la pantalla completa de orden de servicio.",
+                                       "La pantalla de carga rapida de correctivos queda ademas disponible en el menu de Mantenimiento."
+                                   ]
                      }
                  ]
 }
