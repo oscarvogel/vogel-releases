@@ -130,6 +130,17 @@
                          "notes":  [
                                        "Candidate pendiente de validacion en PC piloto."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.13.15.04.08",
+                         "published_at":  "2026-11-13T19:59:07Z",
+                         "notes":  [
+                                       "Se corrigio el cuelgue al iniciar el Mantenimiento: la espera del arranque ahora es acotada y, si la pantalla queda cargando, se guarda un registro con el detalle para poder diagnosticarlo.",
+                                       "Cuando falta la configuracion de la base de datos, al abrir el sistema se pide servidor, puerto, base, usuario y clave, en lugar de cerrarse sin aviso.",
+                                       "El Excel de preventivos ahora toma los mismos valores que el tablero preventivo.",
+                                       "La pantalla de planes por maquina mejora: las columnas se ajustan al contenido, se agrega un boton para limpiar los filtros y con doble clic se ven las tareas del equipo.",
+                                       "La actualizacion de la base ya no se interrumpe si falta la tabla de pneumaticos, y los archivos de registro se guardan junto al programa cuando no existe la carpeta de logs."
+                                   ]
                      }
                  ]
 }
