@@ -2,11 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "latest",
-    "version":  "2026.11.09.17.15.49",
-    "published_at":  "2026-11-09T17:21:50Z",
+    "version":  "2026.11.13.15.04.08",
+    "published_at":  "2026-11-13T19:59:07Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-    "sha256":  "54d86092b00166725733cbafdf8b27020662432a449db6ed3ccce67ad6a7608b",
-    "source_commit":  "021638b73191566ea2586d05ef4a487c31ad96f2",
-    "notes":  "Candidate pendiente de validacion en PC piloto."
+    "sha256":  "443d26f39a13a045e8f3320566feddca2735ac1728dc32dd68594fb04a423484",
+    "source_commit":  "d18a40f7da991bf7cd2820dcea37ef858ecbf1ce",
+    "notes":  "Se corrigio el cuelgue al iniciar el Mantenimiento: la espera del arranque ahora es acotada y, si la pantalla queda cargando, se guarda un registro con el detalle para poder diagnosticarlo. Cuando falta la configuracion de la base de datos, al abrir el sistema se pide servidor, puerto, base, usuario y clave, en lugar de cerrarse sin aviso. El Excel de preventivos ahora toma los mismos valores que el tablero preventivo. La pantalla de planes por maquina mejora: las columnas se ajustan al contenido, se agrega un boton para limpiar los filtros y con doble clic se ven las tareas del equipo. La actualizacion de la base ya no se interrumpe si falta la tabla de pneumaticos, y los archivos de registro se guardan junto al programa cuando no existe la carpeta de logs.",
+    "changelog_notes":  "Actualizaciones varias del sistema."
 }
