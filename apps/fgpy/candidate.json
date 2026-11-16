@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "app_id": "fgpy",
-  "channel": "candidate",
-  "version": "2026.11.16.17.03.00",
-  "published_at": "2026-11-16T17:05:26Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-  "sha256": "a51a32c00fa3203d7e4c8dc44166da71ce92ce67a612a76e1ae176292c44ce2b",
-  "source_commit": "94665bbfaaceb8971c9b2537b936b8332eed2083",
-  "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "Actualizaciones varias del sistema."
+    "schema_version":  1,
+    "app_id":  "fgpy",
+    "channel":  "candidate",
+    "version":  "2026.11.16.21.20.11",
+    "published_at":  "2026-11-16T21:22:41Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+    "sha256":  "ab36fd2f1dd2d6315d23a34717681e7432fee0679411c9bd199442bf4f1b9d5b",
+    "source_commit":  "d65b704d9f9354679a05eee6a7190ad056910981",
+    "automated_validation":  "passed",
+    "notes":  "feat(mantenimiento): registrar monto y moneda base en correctivo rapido"
 }
