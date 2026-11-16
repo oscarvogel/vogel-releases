@@ -149,6 +149,14 @@
                                        "Se agrega la carga rapida de correctivos: desde el tablero preventivo se puede registrar un correctivo en segundos (fecha, km/hora, equipo, unidad de negocio y detalle), sin pasar por la pantalla completa de orden de servicio.",
                                        "La pantalla de carga rapida de correctivos queda ademas disponible en el menu de Mantenimiento."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.16.12.34.56",
+                         "published_at":  "2026-11-16T12:41:30Z",
+                         "notes":  [
+                                       "Repuestos alternativos: corrige el error al agregar uno nuevo.",
+                                       "Importacion desde Tango: reintenta y avisa si se corta la red, sin dejar repuestos inactivos."
+                                   ]
                      }
                  ]
 }
