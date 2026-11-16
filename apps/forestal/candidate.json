@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "app_id": "forestal",
-  "channel": "candidate",
-  "version": "2026.11.16.11.55.07",
-  "published_at": "2026-11-16T11:58:11Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-  "sha256": "980b9ebc53d26c3947c1b1dc0e59c4fa220f820a0fb342ae6035d186778b8e51",
-  "source_commit": "546589d1b495e878b1be9c772dbb921661dc6297",
-  "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "Actualizaciones varias del sistema."
+    "schema_version":  1,
+    "app_id":  "forestal",
+    "channel":  "candidate",
+    "version":  "2026.11.16.12.28.34",
+    "published_at":  "2026-11-16T12:31:07Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
+    "sha256":  "a967be6b71b3da029a28b91bc0d4ab19feb2ce06d041e6f799c982fb1c24062a",
+    "source_commit":  "4d4f9b84c9904962c61a9166f1fe71a16dfe0a3e",
+    "automated_validation":  "passed",
+    "notes":  "Merge pull request #347 from oscarvogel/codex/fix-tango-red-reintentos"
 }
