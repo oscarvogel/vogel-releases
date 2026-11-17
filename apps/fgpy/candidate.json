@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.17.18.54.11",
-    "published_at":  "2026-11-17T18:56:57Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "36e12b7652965c4fc4bfce1958b5d853096f97d17ed1562b3cd21e44b4c93ce1",
-    "source_commit":  "5376be294b5c97853134669a3e8626b7bcf557ce",
-    "automated_validation":  "passed",
-    "notes":  "fix(mantenimiento): reacomodar cabecera y busqueda de equipo en correctivo rapido"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.17.18.55.49",
+  "published_at": "2026-11-17T18:59:12Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "b33418c4844dcf37804dcefff6714ba70a49b2e0b89311212a6a24e974d2cc07",
+  "source_commit": "5376be294b5c97853134669a3e8626b7bcf557ce",
+  "notes": "Candidate pendiente de validacion en PC piloto.",
+  "changelog_notes": "reacomodar cabecera y busqueda de equipo en correctivo rapido"
 }
