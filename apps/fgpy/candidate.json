@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.17.17.24.31",
-    "published_at":  "2026-11-17T17:28:49Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "57ada71e3af4175eca5576d1e8c90920223296f3ba87739ef50d214ef885e246",
-    "source_commit":  "1e2dfda38dcd45306c854cd3776850352cea7766",
-    "automated_validation":  "passed",
-    "notes":  "feat(mantenimiento): avisar preventivos al actualizar horas"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.17.17.26.02",
+  "published_at": "2026-11-17T17:29:07Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "fd5606a97a458bad0d7f25fab9aaf8a1d0de1942f086147dd68fafb4f633fd40",
+  "source_commit": "1e2dfda38dcd45306c854cd3776850352cea7766",
+  "notes": "Candidate pendiente de validacion en PC piloto.",
+  "changelog_notes": "avisar preventivos al actualizar horas"
 }
