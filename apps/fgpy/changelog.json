@@ -36,6 +36,17 @@
                          "notes":  [
                                        "fix(produccion): respetar filtros y acelerar exportaci├│n (#260)"
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.17.13.19.45",
+                         "published_at":  "2026-11-17T13:33:23Z",
+                         "notes":  [
+                                       "Inicio: tablero de mantenimiento con vencimientos, planes por equipo y alertas.",
+                                       "Carga rapida de correctivos: nuevo campo Monto de la orden en la moneda del sistema.",
+                                       "Registro de orden de servicio: al ingresar el equipo no se reabre el buscador, se precarga su unidad de negocio y la diferencia se muestra redondeada.",
+                                       "Tablero de produccion: se carga al presionar Actualizar, avisa cuando no hay produccion y el detalle preventivo queda solo en Mantenimiento.",
+                                       "Mejoras de conexion al iniciar y mensajes de error mas claros."
+                                   ]
                      }
                  ]
 }
