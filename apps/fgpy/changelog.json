@@ -47,6 +47,16 @@
                                        "Tablero de produccion: se carga al presionar Actualizar, avisa cuando no hay produccion y el detalle preventivo queda solo en Mantenimiento.",
                                        "Mejoras de conexion al iniciar y mensajes de error mas claros."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.17.16.59.17",
+                         "published_at":  "2026-11-17T17:05:13Z",
+                         "notes":  [
+                                       "Nuevo boton \u0027Actualizar horas\u0027 en el Inicio y en Mantenimiento para cargar las horas/km de los equipos.",
+                                       "Carga en lote: se ingresan solo las lecturas nuevas de los equipos que se quieran actualizar, con fecha y buscador.",
+                                       "El mantenimiento preventivo, las ordenes de servicio y la carga rapida de correctivos toman la lectura manual cuando es la mas reciente.",
+                                       "Si la lectura nueva es menor a la ultima registrada, el sistema pide confirmacion antes de guardar."
+                                   ]
                      }
                  ]
 }
