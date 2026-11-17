@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.17.13.18.16",
-    "published_at":  "2026-11-17T13:21:37Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "323cbedd2fe4f9795d3592db8c3bd497d6b692f425e4f22468cb547449485f13",
-    "source_commit":  "b416f97cb73bf62c60a4455cc3a3ec2df0d5dff1",
-    "automated_validation":  "passed",
-    "notes":  "fix(mantenimiento): no reabrir busqueda de equipo y precargar su unidad de negocio"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.17.13.19.45",
+  "published_at": "2026-11-17T13:23:01Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "eb117f5caa8884bacb120a8d80ef68074fcab470f4bffebfe1ee9c2f6bf4312f",
+  "source_commit": "b416f97cb73bf62c60a4455cc3a3ec2df0d5dff1",
+  "notes": "Candidate pendiente de validacion en PC piloto.",
+  "changelog_notes": "no reabrir busqueda de equipo y precargar su unidad de negocio"
 }
