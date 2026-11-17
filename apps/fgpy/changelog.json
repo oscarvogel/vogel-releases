@@ -57,6 +57,15 @@
                                        "El mantenimiento preventivo, las ordenes de servicio y la carga rapida de correctivos toman la lectura manual cuando es la mas reciente.",
                                        "Si la lectura nueva es menor a la ultima registrada, el sistema pide confirmacion antes de guardar."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.17.17.26.02",
+                         "published_at":  "2026-11-17T17:31:51Z",
+                         "notes":  [
+                                       "Al actualizar las horas de los equipos, si alguno queda vencido, urgente o proximo se avisa en pantalla.",
+                                       "Si el aviso preventivo automatico esta habilitado, tambien se envia el correo al taller.",
+                                       "El envio no repite avisos ya enviados: proximos y urgentes se informan una vez y los vencidos se recuerdan cada 3 dias."
+                                   ]
                      }
                  ]
 }
