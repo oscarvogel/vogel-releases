@@ -66,6 +66,15 @@
                                        "Si el aviso preventivo automatico esta habilitado, tambien se envia el correo al taller.",
                                        "El envio no repite avisos ya enviados: proximos y urgentes se informan una vez y los vencidos se recuerdan cada 3 dias."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.17.18.55.49",
+                         "published_at":  "2026-11-17T21:51:26Z",
+                         "notes":  [
+                                       "Carga rapida de correctivo: cabecera reacomodada con Unidad Movil primero y Km/Hora que se completa al elegir el equipo.",
+                                       "Enter en Unidad Movil vacia abre el buscador de equipos.",
+                                       "El proveedor se muestra solo al marcar Externo; Km/Hora ahora usa 2 decimales."
+                                   ]
                      }
                  ]
 }
