@@ -17,6 +17,14 @@
                        "timestamp":  "2026-09-16T12:40:40Z",
                        "actor":  "OSCAR24",
                        "source":  "local"
+                   },
+                   {
+                       "action":  "promote_candidate",
+                       "version":  "2026.11.17.13.19.45",
+                       "sha256":  "eb117f5caa8884bacb120a8d80ef68074fcab470f4bffebfe1ee9c2f6bf4312f",
+                       "timestamp":  "2026-11-17T13:33:23Z",
+                       "actor":  "Usuario",
+                       "source":  "local"
                    }
                ]
 }
