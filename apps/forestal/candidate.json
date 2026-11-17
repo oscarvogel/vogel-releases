@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "forestal",
   "channel": "candidate",
-  "version": "2026.11.16.21.24.53",
-  "published_at": "2026-11-16T21:27:39Z",
+  "version": "2026.11.17.11.29.41",
+  "published_at": "2026-11-17T11:32:50Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-  "sha256": "a2e4f6dfa680dd129edb64ccc60b4e1c5f92e84116b0373341ab555b0747c49f",
-  "source_commit": "d65b704d9f9354679a05eee6a7190ad056910981",
+  "sha256": "9d665a39104fdebeb5c3da103899a51e7b90fcebd743e59065fdfdd8d9913353",
+  "source_commit": "1631838d5d0e4a0c33416b5b968db46ea697b61c",
   "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "registrar monto y moneda base en correctivo rapido"
+  "changelog_notes": "cargar produccion sin bloquearse y quitar controles preventivos"
 }
