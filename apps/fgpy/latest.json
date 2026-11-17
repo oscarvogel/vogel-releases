@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "latest",
-    "version":  "2026.11.17.16.59.17",
-    "published_at":  "2026-11-17T17:05:13Z",
+    "version":  "2026.11.17.17.26.02",
+    "published_at":  "2026-11-17T17:31:51Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-    "sha256":  "561f10cb2b149d28080f51dd78c054e0695cfdc46a0af4818fab22900dcf7108",
-    "source_commit":  "0b29240ed2601a76fe0ad929c5cd63ae8012de59",
-    "notes":  "Nuevo boton \u0027Actualizar horas\u0027 en el Inicio y en Mantenimiento para cargar las horas/km de los equipos. Carga en lote: se ingresan solo las lecturas nuevas de los equipos que se quieran actualizar, con fecha y buscador. El mantenimiento preventivo, las ordenes de servicio y la carga rapida de correctivos toman la lectura manual cuando es la mas reciente. Si la lectura nueva es menor a la ultima registrada, el sistema pide confirmacion antes de guardar.",
-    "changelog_notes":  "carga manual de horas y kilometros por equipo"
+    "sha256":  "fd5606a97a458bad0d7f25fab9aaf8a1d0de1942f086147dd68fafb4f633fd40",
+    "source_commit":  "1e2dfda38dcd45306c854cd3776850352cea7766",
+    "notes":  "Al actualizar las horas de los equipos, si alguno queda vencido, urgente o proximo se avisa en pantalla. Si el aviso preventivo automatico esta habilitado, tambien se envia el correo al taller. El envio no repite avisos ya enviados: proximos y urgentes se informan una vez y los vencidos se recuerdan cada 3 dias.",
+    "changelog_notes":  "avisar preventivos al actualizar horas"
 }
