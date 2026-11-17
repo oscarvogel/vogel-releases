@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "fgpy",
   "channel": "candidate",
-  "version": "2026.11.16.21.21.03",
-  "published_at": "2026-11-16T21:23:18Z",
+  "version": "2026.11.17.11.25.09",
+  "published_at": "2026-11-17T11:28:02Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-  "sha256": "bc952804017c95a8fcdf2b1f16d5d77dd63f4f94e7131c99bbf30c595fc366f9",
-  "source_commit": "d65b704d9f9354679a05eee6a7190ad056910981",
+  "sha256": "199e2192941c16c82ad5d2b35f87c25c4d3ecbcc16575f13db9e3cd4861b70a6",
+  "source_commit": "1631838d5d0e4a0c33416b5b968db46ea697b61c",
   "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "registrar monto y moneda base en correctivo rapido"
+  "changelog_notes": "cargar produccion sin bloquearse y quitar controles preventivos"
 }
