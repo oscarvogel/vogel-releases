@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.17.12.28.34",
-    "published_at":  "2026-11-17T12:32:41Z",
+    "version":  "2026.11.17.13.18.16",
+    "published_at":  "2026-11-17T13:21:37Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "974bf30d88da62f9668c98a75b48e8ba5e01340122a51d89906e86a3d26ca3c5",
-    "source_commit":  "1631838d5d0e4a0c33416b5b968db46ea697b61c",
+    "sha256":  "323cbedd2fe4f9795d3592db8c3bd497d6b692f425e4f22468cb547449485f13",
+    "source_commit":  "b416f97cb73bf62c60a4455cc3a3ec2df0d5dff1",
     "automated_validation":  "passed",
-    "notes":  "fix(dashboard): cargar produccion sin bloquearse y quitar controles preventivos"
+    "notes":  "fix(mantenimiento): no reabrir busqueda de equipo y precargar su unidad de negocio"
 }
