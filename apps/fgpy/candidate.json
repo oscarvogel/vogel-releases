@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "app_id": "fgpy",
-  "channel": "candidate",
-  "version": "2026.11.17.11.25.09",
-  "published_at": "2026-11-17T11:28:02Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-  "sha256": "199e2192941c16c82ad5d2b35f87c25c4d3ecbcc16575f13db9e3cd4861b70a6",
-  "source_commit": "1631838d5d0e4a0c33416b5b968db46ea697b61c",
-  "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "cargar produccion sin bloquearse y quitar controles preventivos"
+    "schema_version":  1,
+    "app_id":  "fgpy",
+    "channel":  "candidate",
+    "version":  "2026.11.17.12.28.34",
+    "published_at":  "2026-11-17T12:32:41Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+    "sha256":  "974bf30d88da62f9668c98a75b48e8ba5e01340122a51d89906e86a3d26ca3c5",
+    "source_commit":  "1631838d5d0e4a0c33416b5b968db46ea697b61c",
+    "automated_validation":  "passed",
+    "notes":  "fix(dashboard): cargar produccion sin bloquearse y quitar controles preventivos"
 }
