@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.17.16.57.56",
-    "published_at":  "2026-11-17T17:02:06Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "44d4f0ed2385d74f7bf22ad6eed54c2599ae7619eceb725970f7fe8853d64ee7",
-    "source_commit":  "0b29240ed2601a76fe0ad929c5cd63ae8012de59",
-    "automated_validation":  "passed",
-    "notes":  "feat(mantenimiento): carga manual de horas y kilometros por equipo"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.17.16.59.17",
+  "published_at": "2026-11-17T17:02:43Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "561f10cb2b149d28080f51dd78c054e0695cfdc46a0af4818fab22900dcf7108",
+  "source_commit": "0b29240ed2601a76fe0ad929c5cd63ae8012de59",
+  "notes": "Candidate pendiente de validacion en PC piloto.",
+  "changelog_notes": "carga manual de horas y kilometros por equipo"
 }
