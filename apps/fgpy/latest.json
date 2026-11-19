@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "latest",
-    "version":  "2026.11.17.18.55.49",
-    "published_at":  "2026-11-17T21:51:26Z",
+    "version":  "2026.11.19.16.41.29",
+    "published_at":  "2026-11-19T16:55:06Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-    "sha256":  "b33418c4844dcf37804dcefff6714ba70a49b2e0b89311212a6a24e974d2cc07",
-    "source_commit":  "5376be294b5c97853134669a3e8626b7bcf557ce",
-    "notes":  "Carga rapida de correctivo: cabecera reacomodada con Unidad Movil primero y Km/Hora que se completa al elegir el equipo. Enter en Unidad Movil vacia abre el buscador de equipos. El proveedor se muestra solo al marcar Externo; Km/Hora ahora usa 2 decimales.",
-    "changelog_notes":  "reacomodar cabecera y busqueda de equipo en correctivo rapido"
+    "sha256":  "f9fbb37d45041ccb8260982586c4ef062053ebe6724cd7c1fdcbb7105ee74c8f",
+    "source_commit":  "338055b0b37543133b027b68c17a41875934033e",
+    "automated_validation":  "passed",
+    "notes":  "Corrige la Carga de Produccion y el ABM de Clientes, que fallaban con el error \u0027Unknown column domicilio\u0027."
 }
