@@ -75,6 +75,13 @@
                                        "Enter en Unidad Movil vacia abre el buscador de equipos.",
                                        "El proveedor se muestra solo al marcar Externo; Km/Hora ahora usa 2 decimales."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.19.16.41.29",
+                         "published_at":  "2026-11-19T16:55:06Z",
+                         "notes":  [
+                                       "Corrige la Carga de Produccion y el ABM de Clientes, que fallaban con el error \u0027Unknown column domicilio\u0027."
+                                   ]
                      }
                  ]
 }
