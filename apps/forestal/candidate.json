@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "app_id": "forestal",
-  "channel": "candidate",
-  "version": "2026.11.17.19.00.26",
-  "published_at": "2026-11-17T19:02:21Z",
-  "mandatory": false,
-  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-  "sha256": "2042015c8a07914eddd36d4049aa842e9970aa31bf094a1c7a373048b69936a3",
-  "source_commit": "5376be294b5c97853134669a3e8626b7bcf557ce",
-  "notes": "Candidate pendiente de validacion en PC piloto.",
-  "changelog_notes": "reacomodar cabecera y busqueda de equipo en correctivo rapido"
+    "schema_version":  1,
+    "app_id":  "forestal",
+    "channel":  "candidate",
+    "version":  "2026.11.20.12.00.34",
+    "published_at":  "2026-11-20T12:03:30Z",
+    "mandatory":  false,
+    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
+    "sha256":  "5751b3f1050bef1760a57e8e38d6cdf45960c516040398584b68f39215e6d127",
+    "source_commit":  "2f6f28f1884b25aaffdd7018280f7c13f5105ada",
+    "automated_validation":  "passed",
+    "notes":  "feat(neumaticos): dar de alta las cubiertas faltantes al importar la planilla"
 }
