@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.11.20.12.16.17",
-    "published_at":  "2026-11-20T12:19:24Z",
+    "version":  "2026.11.20.18.48.14",
+    "published_at":  "2026-11-20T18:52:26Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "7865483243842dc29591bfc72d3666c8c1e215dd1c0e5091f77cab4be1ec7d56",
-    "source_commit":  "85628fe7de1238f14dec90e11d307eb68e832773",
+    "sha256":  "86978184f618014e7d7516776eaa5f17fb40cd7f829a24b92a7ddfe84b831c9a",
+    "source_commit":  "92af57d237155e23fdd998ec5910654ccadeb3e5",
     "automated_validation":  "passed",
-    "notes":  "fix(mantenimiento): habilitar la carga de horas y kilometros en produccion"
+    "notes":  "Merge pull request #348 from oscarvogel/codex/manual-mantenimiento-preventivo-v1-1"
 }
