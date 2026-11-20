@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "previous",
-    "version":  "2026.11.13.20.36.00",
-    "published_at":  "2026-11-13T20:42:19Z",
+    "version":  "2026.11.16.12.34.56",
+    "published_at":  "2026-11-16T12:41:30Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/Forestal_Produccion_Setup.exe",
-    "sha256":  "42b4f558b643240f9d75eb4d0458c8a5d29f4233cb589bd100ca1a624b80bd4d",
-    "source_commit":  "69ab97ecb6a8ff242fc8fbf47f499bf20639c051",
-    "notes":  "Se agrega la carga rapida de correctivos: desde el tablero preventivo se puede registrar un correctivo en segundos (fecha, km/hora, equipo, unidad de negocio y detalle), sin pasar por la pantalla completa de orden de servicio. La pantalla de carga rapida de correctivos queda ademas disponible en el menu de Mantenimiento.",
+    "sha256":  "2248bffdb94631496a7659d1ac20e778dd273617850f35c3841735ba4344122b",
+    "source_commit":  "4d4f9b84c9904962c61a9166f1fe71a16dfe0a3e",
+    "notes":  "Repuestos alternativos: corrige el error al agregar uno nuevo. Importacion desde Tango: reintenta y avisa si se corta la red, sin dejar repuestos inactivos.",
     "changelog_notes":  "Actualizaciones varias del sistema."
 }
