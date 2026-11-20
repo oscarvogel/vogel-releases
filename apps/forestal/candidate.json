@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.11.20.12.00.34",
-    "published_at":  "2026-11-20T12:03:30Z",
+    "version":  "2026.11.20.12.16.17",
+    "published_at":  "2026-11-20T12:19:24Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "5751b3f1050bef1760a57e8e38d6cdf45960c516040398584b68f39215e6d127",
-    "source_commit":  "2f6f28f1884b25aaffdd7018280f7c13f5105ada",
+    "sha256":  "7865483243842dc29591bfc72d3666c8c1e215dd1c0e5091f77cab4be1ec7d56",
+    "source_commit":  "85628fe7de1238f14dec90e11d307eb68e832773",
     "automated_validation":  "passed",
-    "notes":  "feat(neumaticos): dar de alta las cubiertas faltantes al importar la planilla"
+    "notes":  "fix(mantenimiento): habilitar la carga de horas y kilometros en produccion"
 }
