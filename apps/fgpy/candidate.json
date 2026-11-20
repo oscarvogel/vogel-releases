@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.19.16.41.29",
-    "published_at":  "2026-11-19T16:46:03Z",
+    "version":  "2026.11.20.18.28.45",
+    "published_at":  "2026-11-20T18:31:48Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "f9fbb37d45041ccb8260982586c4ef062053ebe6724cd7c1fdcbb7105ee74c8f",
-    "source_commit":  "338055b0b37543133b027b68c17a41875934033e",
+    "sha256":  "41094937c07391783762658024a078c3d8b2a076d7a7a985f5f8ed7a3153c5b1",
+    "source_commit":  "92af57d237155e23fdd998ec5910654ccadeb3e5",
     "automated_validation":  "passed",
-    "notes":  "fix(modelos): mapear Cliente segun la base (fg vs FGPY)"
+    "notes":  "Merge pull request #348 from oscarvogel/codex/manual-mantenimiento-preventivo-v1-1"
 }
