@@ -165,6 +165,14 @@
                                        "Importacion de planillas de cubiertas con alta automatica de las ruedas que faltan.",
                                        "Carga manual de horas y kilometros por equipo."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.20.18.48.14",
+                         "published_at":  "2026-11-20T19:08:05Z",
+                         "notes":  [
+                                       "Croquis del equipo completo: la consulta y la ubicacion de ruedas muestran el camion con sus semirremolques y todas las ruedas.",
+                                       "Asistente de IA en el correctivo rapido: audio y fotos para preparar el registro, con revision previa."
+                                   ]
                      }
                  ]
 }
