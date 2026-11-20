@@ -157,6 +157,14 @@
                                        "Repuestos alternativos: corrige el error al agregar uno nuevo.",
                                        "Importacion desde Tango: reintenta y avisa si se corta la red, sin dejar repuestos inactivos."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.20.12.16.17",
+                         "published_at":  "2026-11-20T12:25:46Z",
+                         "notes":  [
+                                       "Importacion de planillas de cubiertas con alta automatica de las ruedas que faltan.",
+                                       "Carga manual de horas y kilometros por equipo."
+                                   ]
                      }
                  ]
 }
