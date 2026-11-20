@@ -82,6 +82,17 @@
                          "notes":  [
                                        "Corrige la Carga de Produccion y el ABM de Clientes, que fallaban con el error \u0027Unknown column domicilio\u0027."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.20.18.28.45",
+                         "published_at":  "2026-11-20T19:13:11Z",
+                         "notes":  [
+                                       "Carga Correctivo Rapido: nuevo asistente con IA que analiza audio y fotos y propone los datos para revisar antes de guardar.",
+                                       "Configuracion IA: la API key se carga una sola vez y todas las maquinas la leen de la base.",
+                                       "Repuestos de terceros: se pueden crear sin stock o guardar la referencia en las observaciones del correctivo.",
+                                       "El correctivo rapido autocompleta equipo y proveedor, trae la ultima lectura y la unidad de negocio.",
+                                       "Incluye mejoras del manual de mantenimiento preventivo y la consulta de neumaticos por equipo."
+                                   ]
                      }
                  ]
 }
