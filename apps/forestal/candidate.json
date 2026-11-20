@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.11.20.18.48.14",
-    "published_at":  "2026-11-20T18:52:26Z",
+    "version":  "2026.11.20.20.49.21",
+    "published_at":  "2026-11-20T20:52:56Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "86978184f618014e7d7516776eaa5f17fb40cd7f829a24b92a7ddfe84b831c9a",
-    "source_commit":  "92af57d237155e23fdd998ec5910654ccadeb3e5",
+    "sha256":  "350317dcc2bcecf1024b038c1461c0a2623c75783d22ffaf98a78713dcc80e41",
+    "source_commit":  "5b650bd48831f15ba8386bdeb17a89a71dd55e1d",
     "automated_validation":  "passed",
-    "notes":  "Merge pull request #348 from oscarvogel/codex/manual-mantenimiento-preventivo-v1-1"
+    "notes":  "chore(deps): fijar pyqt5libs en 0fdab93 con el fix de validaciones"
 }
