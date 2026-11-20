@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "latest",
-    "version":  "2026.11.16.12.34.56",
-    "published_at":  "2026-11-16T12:41:30Z",
+    "version":  "2026.11.20.12.16.17",
+    "published_at":  "2026-11-20T12:25:46Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-    "sha256":  "2248bffdb94631496a7659d1ac20e778dd273617850f35c3841735ba4344122b",
-    "source_commit":  "4d4f9b84c9904962c61a9166f1fe71a16dfe0a3e",
-    "notes":  "Repuestos alternativos: corrige el error al agregar uno nuevo. Importacion desde Tango: reintenta y avisa si se corta la red, sin dejar repuestos inactivos.",
-    "changelog_notes":  "Actualizaciones varias del sistema."
+    "sha256":  "7865483243842dc29591bfc72d3666c8c1e215dd1c0e5091f77cab4be1ec7d56",
+    "source_commit":  "85628fe7de1238f14dec90e11d307eb68e832773",
+    "automated_validation":  "passed",
+    "notes":  "Importacion de planillas de cubiertas con alta automatica de las ruedas que faltan. Carga manual de horas y kilometros por equipo."
 }
