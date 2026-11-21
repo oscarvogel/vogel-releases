@@ -93,6 +93,13 @@
                                        "El correctivo rapido autocompleta equipo y proveedor, trae la ultima lectura y la unidad de negocio.",
                                        "Incluye mejoras del manual de mantenimiento preventivo y la consulta de neumaticos por equipo."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.21.11.41.13",
+                         "published_at":  "2026-11-21T11:54:03Z",
+                         "notes":  [
+                                       "test(mantenimiento): alinear los fakes con URGENTE y la lectura manual"
+                                   ]
                      }
                  ]
 }
