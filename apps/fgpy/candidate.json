@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.22.10.49.06",
-    "published_at":  "2026-11-22T10:52:46Z",
+    "version":  "2026.11.22.11.03.26",
+    "published_at":  "2026-11-22T11:07:28Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "a40807a21b5f6cfd536166980d8de885749e13ce4aae79c88f758783e15693c9",
-    "source_commit":  "ffbec5deaad0e278c246d0accd59a6c7efb4ca67",
+    "sha256":  "d736d1d1cd6ebe90ea340e78a1ec4ba1a0e23339c5039cb6c6d675a939c25c8b",
+    "source_commit":  "ab700028656648c82504d54a340c4a2cdce0f575",
     "automated_validation":  "passed",
-    "notes":  "docs(correctivo): manual del asistente IA para el operador"
+    "notes":  "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
 }
