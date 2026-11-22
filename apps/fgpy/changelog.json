@@ -100,6 +100,13 @@
                          "notes":  [
                                        "test(mantenimiento): alinear los fakes con URGENTE y la lectura manual"
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.22.11.03.26",
+                         "published_at":  "2026-11-22T11:11:06Z",
+                         "notes":  [
+                                       "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
+                                   ]
                      }
                  ]
 }
