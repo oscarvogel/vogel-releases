@@ -117,6 +117,16 @@
                                        "Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente.",
                                        "No se guardan preguntas de las consultas respondidas ni datos sensibles."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.24.19.21.35",
+                         "published_at":  "2026-11-24T19:31:46Z",
+                         "notes":  [
+                                       "El Asistente IA ahora reune el uso de todas las PC en un solo resumen diario.",
+                                       "El resumen se envia por correo una sola vez por dia, con totales, usuarios, equipos, modulos y las preguntas sin respuesta.",
+                                       "El boton Uso diario muestra el total consolidado de todas las PC.",
+                                       "Solo se guardan metricas y las preguntas sin respuesta; no se guardan respuestas ni datos sensibles."
+                                   ]
                      }
                  ]
 }
