@@ -107,6 +107,16 @@
                          "notes":  [
                                        "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.24.18.49.13",
+                         "published_at":  "2026-11-24T18:59:34Z",
+                         "notes":  [
+                                       "El Asistente IA incorpora un resumen diario de uso.",
+                                       "El resumen incluye totales, usuarios, modulos consultados y las preguntas que quedaron sin respuesta.",
+                                       "Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente.",
+                                       "No se guardan preguntas de las consultas respondidas ni datos sensibles."
+                                   ]
                      }
                  ]
 }
