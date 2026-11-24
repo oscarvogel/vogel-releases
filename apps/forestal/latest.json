@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "latest",
-    "version":  "2026.11.24.18.19.00",
-    "published_at":  "2026-11-24T18:39:09Z",
+    "version":  "2026.11.24.18.44.26",
+    "published_at":  "2026-11-24T18:56:11Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-    "sha256":  "40ac238fbfef59cf230372255abdab33ecd92f1f0f0cb75ba12972033fcfffab",
-    "source_commit":  "8d9a9fa7c72c5f14876847da0ead00456943e6e4",
+    "sha256":  "11fcd535cad99238e59e3a64fd3d11bbcf773498f980494e9a9645915d369737",
+    "source_commit":  "d076798f5d8acddb1745dcb2013676cae7f41612",
     "automated_validation":  "passed",
-    "notes":  "Nuevo Asistente IA de ayuda, disponible desde el boton del menu lateral. Responde preguntas sobre mantenimiento, neumaticos, produccion, compras, informes y configuracion, con las fuentes citadas. Mantiene el contexto de la conversacion y no consulta ni modifica datos de la empresa. Cuando no hay documentacion suficiente, lo informa en lugar de inventar procedimientos."
+    "notes":  "El Asistente IA incorpora un resumen diario de uso. El resumen incluye totales, usuarios, modulos consultados y las preguntas que quedaron sin respuesta. Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente. No se guardan preguntas de las consultas respondidas ni datos sensibles."
 }
