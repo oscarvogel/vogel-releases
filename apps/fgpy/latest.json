@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "latest",
-    "version":  "2026.11.24.18.49.13",
-    "published_at":  "2026-11-24T18:59:34Z",
+    "version":  "2026.11.24.19.21.35",
+    "published_at":  "2026-11-24T19:31:46Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-    "sha256":  "ec47375b1b316f0691c98e3e7de0d4d95c09f94c959fd9c80d1477a89aea86e1",
-    "source_commit":  "d076798f5d8acddb1745dcb2013676cae7f41612",
+    "sha256":  "8a564f9055f9af51f8c0d31d90511be911eba28f282592901d7499c415de83c7",
+    "source_commit":  "7ef6c388bc496fb97209cf13baa9ed55d2b86b11",
     "automated_validation":  "passed",
-    "notes":  "El Asistente IA incorpora un resumen diario de uso. El resumen incluye totales, usuarios, modulos consultados y las preguntas que quedaron sin respuesta. Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente. No se guardan preguntas de las consultas respondidas ni datos sensibles."
+    "notes":  "El Asistente IA ahora reune el uso de todas las PC en un solo resumen diario. El resumen se envia por correo una sola vez por dia, con totales, usuarios, equipos, modulos y las preguntas sin respuesta. El boton Uso diario muestra el total consolidado de todas las PC. Solo se guardan metricas y las preguntas sin respuesta; no se guardan respuestas ni datos sensibles."
 }
