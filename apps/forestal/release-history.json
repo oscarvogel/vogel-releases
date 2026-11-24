@@ -169,6 +169,14 @@
                        "timestamp":  "2026-11-24T18:56:11Z",
                        "actor":  "Usuario",
                        "source":  "local"
+                   },
+                   {
+                       "action":  "promote_candidate",
+                       "version":  "2026.11.24.19.18.04",
+                       "sha256":  "14c86770dc5f315f32ff0364aecb3874cc4005af3738e021abc78ae2755e348f",
+                       "timestamp":  "2026-11-24T19:28:22Z",
+                       "actor":  "Usuario",
+                       "source":  "local"
                    }
                ]
 }
