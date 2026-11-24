@@ -173,6 +173,16 @@
                                        "Croquis del equipo completo: la consulta y la ubicacion de ruedas muestran el camion con sus semirremolques y todas las ruedas.",
                                        "Asistente de IA en el correctivo rapido: audio y fotos para preparar el registro, con revision previa."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.24.18.19.00",
+                         "published_at":  "2026-11-24T18:39:09Z",
+                         "notes":  [
+                                       "Nuevo Asistente IA de ayuda, disponible desde el boton del menu lateral.",
+                                       "Responde preguntas sobre mantenimiento, neumaticos, produccion, compras, informes y configuracion, con las fuentes citadas.",
+                                       "Mantiene el contexto de la conversacion y no consulta ni modifica datos de la empresa.",
+                                       "Cuando no hay documentacion suficiente, lo informa en lugar de inventar procedimientos."
+                                   ]
                      }
                  ]
 }
