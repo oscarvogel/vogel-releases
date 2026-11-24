@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.24.18.49.13",
-    "published_at":  "2026-11-24T18:52:57Z",
+    "version":  "2026.11.24.19.21.35",
+    "published_at":  "2026-11-24T19:24:55Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "ec47375b1b316f0691c98e3e7de0d4d95c09f94c959fd9c80d1477a89aea86e1",
-    "source_commit":  "d076798f5d8acddb1745dcb2013676cae7f41612",
+    "sha256":  "8a564f9055f9af51f8c0d31d90511be911eba28f282592901d7499c415de83c7",
+    "source_commit":  "7ef6c388bc496fb97209cf13baa9ed55d2b86b11",
     "automated_validation":  "passed",
-    "notes":  "feat(asistente): resumen diario de uso y correo a Forestal Garuhape"
+    "notes":  "feat(asistente): telemetria central y resumen diario consolidado"
 }
