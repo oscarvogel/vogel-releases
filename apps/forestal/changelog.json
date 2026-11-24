@@ -183,6 +183,16 @@
                                        "Mantiene el contexto de la conversacion y no consulta ni modifica datos de la empresa.",
                                        "Cuando no hay documentacion suficiente, lo informa en lugar de inventar procedimientos."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.24.18.44.26",
+                         "published_at":  "2026-11-24T18:56:11Z",
+                         "notes":  [
+                                       "El Asistente IA incorpora un resumen diario de uso.",
+                                       "El resumen incluye totales, usuarios, modulos consultados y las preguntas que quedaron sin respuesta.",
+                                       "Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente.",
+                                       "No se guardan preguntas de las consultas respondidas ni datos sensibles."
+                                   ]
                      }
                  ]
 }
