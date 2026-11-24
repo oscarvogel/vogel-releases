@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.22.11.03.26",
-    "published_at":  "2026-11-22T11:07:28Z",
+    "version":  "2026.11.24.18.22.33",
+    "published_at":  "2026-11-24T18:25:50Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "d736d1d1cd6ebe90ea340e78a1ec4ba1a0e23339c5039cb6c6d675a939c25c8b",
-    "source_commit":  "ab700028656648c82504d54a340c4a2cdce0f575",
+    "sha256":  "47e58074458184c2ac881044a3d7cfdbebac3883a1d9def938a2c65cceac97cb",
+    "source_commit":  "8d9a9fa7c72c5f14876847da0ead00456943e6e4",
     "automated_validation":  "passed",
-    "notes":  "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
+    "notes":  "fix(asistente): distinguir FGPY de Forestal Garuhape segun la variante activa"
 }
