@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "latest",
-    "version":  "2026.11.20.18.48.14",
-    "published_at":  "2026-11-20T19:08:05Z",
+    "version":  "2026.11.24.18.19.00",
+    "published_at":  "2026-11-24T18:39:09Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-    "sha256":  "86978184f618014e7d7516776eaa5f17fb40cd7f829a24b92a7ddfe84b831c9a",
-    "source_commit":  "92af57d237155e23fdd998ec5910654ccadeb3e5",
+    "sha256":  "40ac238fbfef59cf230372255abdab33ecd92f1f0f0cb75ba12972033fcfffab",
+    "source_commit":  "8d9a9fa7c72c5f14876847da0ead00456943e6e4",
     "automated_validation":  "passed",
-    "notes":  "Croquis del equipo completo: la consulta y la ubicacion de ruedas muestran el camion con sus semirremolques y todas las ruedas. Asistente de IA en el correctivo rapido: audio y fotos para preparar el registro, con revision previa."
+    "notes":  "Nuevo Asistente IA de ayuda, disponible desde el boton del menu lateral. Responde preguntas sobre mantenimiento, neumaticos, produccion, compras, informes y configuracion, con las fuentes citadas. Mantiene el contexto de la conversacion y no consulta ni modifica datos de la empresa. Cuando no hay documentacion suficiente, lo informa en lugar de inventar procedimientos."
 }
