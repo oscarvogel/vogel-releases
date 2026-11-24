@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "previous",
-    "version":  "2026.11.21.11.41.13",
-    "published_at":  "2026-11-21T11:54:03Z",
+    "version":  "2026.11.22.11.03.26",
+    "published_at":  "2026-11-22T11:11:06Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/previous/FGPY_Produccion_Setup.exe",
-    "sha256":  "03dde26cfec6a461a61c71dbc19369b63fcdfd1c1f8d319a4ee0ddccfff2dcd4",
-    "source_commit":  "2c08234d1007092638db27a13d7b3ec1591de3be",
+    "sha256":  "d736d1d1cd6ebe90ea340e78a1ec4ba1a0e23339c5039cb6c6d675a939c25c8b",
+    "source_commit":  "ab700028656648c82504d54a340c4a2cdce0f575",
     "automated_validation":  "passed",
-    "notes":  "test(mantenimiento): alinear los fakes con URGENTE y la lectura manual"
+    "notes":  "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
 }
