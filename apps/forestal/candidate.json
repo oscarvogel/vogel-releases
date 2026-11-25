@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "forestal",
     "channel":  "candidate",
-    "version":  "2026.11.24.19.18.04",
-    "published_at":  "2026-11-24T19:21:32Z",
+    "version":  "2026.11.25.14.18.06",
+    "published_at":  "2026-11-25T14:21:13Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "14c86770dc5f315f32ff0364aecb3874cc4005af3738e021abc78ae2755e348f",
-    "source_commit":  "7ef6c388bc496fb97209cf13baa9ed55d2b86b11",
+    "sha256":  "463871a8de719eefba12288cf690aaea228322b87b61cdfc98a0e6917114d5e9",
+    "source_commit":  "de4ee35a8c131fe51f2dc730cda7f0049620fe2a",
     "automated_validation":  "passed",
-    "notes":  "feat(asistente): telemetria central y resumen diario consolidado"
+    "notes":  "Merge pull request #359 from oscarvogel/codex/informe-mantenimiento-preventivo"
 }
