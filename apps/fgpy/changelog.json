@@ -127,6 +127,13 @@
                                        "El boton Uso diario muestra el total consolidado de todas las PC.",
                                        "Solo se guardan metricas y las preguntas sin respuesta; no se guardan respuestas ni datos sensibles."
                                    ]
+                     },
+                     {
+                         "version":  "2026.11.25.14.15.02",
+                         "published_at":  "2026-11-25T14:35:23Z",
+                         "notes":  [
+                                       "Merge pull request #359 from oscarvogel/codex/informe-mantenimiento-preventivo"
+                                   ]
                      }
                  ]
 }
