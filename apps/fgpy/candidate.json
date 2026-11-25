@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.25.14.15.02",
-    "published_at":  "2026-11-25T14:18:03Z",
+    "version":  "2026.11.25.16.56.09",
+    "published_at":  "2026-11-25T17:00:58Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "93d90b7fef533c1fec0b2c4b0ff81edc52ef9960de37b6287a0cc9d8ca6f17f4",
-    "source_commit":  "de4ee35a8c131fe51f2dc730cda7f0049620fe2a",
+    "sha256":  "240134bca87b1034497fe510b9b5c9e6f0f919dda847005c1b87e4f84994b357",
+    "source_commit":  "84d6d1eb66405f7b55f59e1f17acab8ae2635f03",
     "automated_validation":  "passed",
-    "notes":  "Merge pull request #359 from oscarvogel/codex/informe-mantenimiento-preventivo"
+    "notes":  "Merge pull request #361 from oscarvogel/codex/informe-preventivo-agrupado"
 }
