@@ -2,12 +2,12 @@
     "schema_version":  1,
     "app_id":  "fgpy",
     "channel":  "candidate",
-    "version":  "2026.11.24.19.21.35",
-    "published_at":  "2026-11-24T19:24:55Z",
+    "version":  "2026.11.25.14.15.02",
+    "published_at":  "2026-11-25T14:18:03Z",
     "mandatory":  false,
     "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "8a564f9055f9af51f8c0d31d90511be911eba28f282592901d7499c415de83c7",
-    "source_commit":  "7ef6c388bc496fb97209cf13baa9ed55d2b86b11",
+    "sha256":  "93d90b7fef533c1fec0b2c4b0ff81edc52ef9960de37b6287a0cc9d8ca6f17f4",
+    "source_commit":  "de4ee35a8c131fe51f2dc730cda7f0049620fe2a",
     "automated_validation":  "passed",
-    "notes":  "feat(asistente): telemetria central y resumen diario consolidado"
+    "notes":  "Merge pull request #359 from oscarvogel/codex/informe-mantenimiento-preventivo"
 }
