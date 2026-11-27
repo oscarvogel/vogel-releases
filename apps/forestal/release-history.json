@@ -1,182 +1,190 @@
 {
-    "schema_version":  1,
-    "app_id":  "forestal",
-    "events":  [
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.09.15.21.27.07",
-                       "sha256":  "e69704c5de391536276652b845e585f68c9f98106a333686bee819dc5aea1b8b",
-                       "timestamp":  "2026-09-15T21:36:17Z",
-                       "actor":  "OSCAR24",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.09.21.19.02.43",
-                       "sha256":  "2dc26b88271b61457069e2a9a8ffaabce95537bdaa29f9eaee3d6de66d994e15",
-                       "timestamp":  "2026-09-21T19:15:31Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.16.11.52.23",
-                       "sha256":  "4edd08391aed6daca66cff521f31dcfb1273f62795f6dfc7917573f15f6007ee",
-                       "timestamp":  "2026-10-16T12:01:30Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.16.12.19.29",
-                       "sha256":  "d23046b7f5d64e9cc4e01e1609fb342bdd604e8ab4836db95574d02f786e7d85",
-                       "timestamp":  "2026-10-16T12:27:51Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.16.12.41.04",
-                       "sha256":  "586d47ba6177bdbd87bf644d84e4b20411843108ddc51c62e50ebdca1557da07",
-                       "timestamp":  "2026-10-16T12:48:21Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.20.20.58.22",
-                       "sha256":  "7e9becebbf421204238bc5215cb9c6cca22d32b3fb9e505568805aad45b2115f",
-                       "timestamp":  "2026-10-21T11:10:05Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.21.12.09.19",
-                       "sha256":  "8a3d7ce2d6a94f58fc85ce93f17b765f51f6ea9fa9a121d120738f394c1cb4b3",
-                       "timestamp":  "2026-10-21T12:16:11Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.21.17.30.51",
-                       "sha256":  "de38f009e2ce1a978af40ac829d067a67defe6d387ec5b501fb40ecb8db20bd3",
-                       "timestamp":  "2026-10-21T17:59:43Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.22.13.12.25",
-                       "sha256":  "6e1a59da5a141bd71bd0cd6bfc49d6a2ee3da0f5f5a3f6ff1e5b0c8cc023685e",
-                       "timestamp":  "2026-10-22T13:21:29Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.22.19.46.36",
-                       "sha256":  "bbba7e4f17eeae31260b395e2ecba2322484f3abfd4750aab0859193ff9171e0",
-                       "timestamp":  "2026-10-22T19:56:22Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.22.22.30.36",
-                       "sha256":  "bc0d9d933ec396e09a1a00b7b8b9e917bc9ebd2ad03dcd358067f2592bd89b91",
-                       "timestamp":  "2026-10-22T22:38:50Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.27.17.12.30",
-                       "sha256":  "18de0cf670f8a3b399d7dcc6f1d9b285be651b9bd3cc77b40ef37fd7e8eb3625",
-                       "timestamp":  "2026-10-27T18:24:40Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.10.27.17.12.30",
-                       "sha256":  "18de0cf670f8a3b399d7dcc6f1d9b285be651b9bd3cc77b40ef37fd7e8eb3625",
-                       "timestamp":  "2026-11-04T19:00:07Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.09.17.15.49",
-                       "sha256":  "54d86092b00166725733cbafdf8b27020662432a449db6ed3ccce67ad6a7608b",
-                       "timestamp":  "2026-11-09T17:21:50Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.13.15.04.08",
-                       "sha256":  "443d26f39a13a045e8f3320566feddca2735ac1728dc32dd68594fb04a423484",
-                       "timestamp":  "2026-11-13T19:59:07Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.13.20.36.00",
-                       "sha256":  "42b4f558b643240f9d75eb4d0458c8a5d29f4233cb589bd100ca1a624b80bd4d",
-                       "timestamp":  "2026-11-13T20:42:19Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.16.12.34.56",
-                       "sha256":  "2248bffdb94631496a7659d1ac20e778dd273617850f35c3841735ba4344122b",
-                       "timestamp":  "2026-11-16T12:41:30Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.20.12.16.17",
-                       "sha256":  "7865483243842dc29591bfc72d3666c8c1e215dd1c0e5091f77cab4be1ec7d56",
-                       "timestamp":  "2026-11-20T12:25:46Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.20.18.48.14",
-                       "sha256":  "86978184f618014e7d7516776eaa5f17fb40cd7f829a24b92a7ddfe84b831c9a",
-                       "timestamp":  "2026-11-20T19:08:05Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.24.18.19.00",
-                       "sha256":  "40ac238fbfef59cf230372255abdab33ecd92f1f0f0cb75ba12972033fcfffab",
-                       "timestamp":  "2026-11-24T18:39:09Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.24.18.44.26",
-                       "sha256":  "11fcd535cad99238e59e3a64fd3d11bbcf773498f980494e9a9645915d369737",
-                       "timestamp":  "2026-11-24T18:56:11Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   },
-                   {
-                       "action":  "promote_candidate",
-                       "version":  "2026.11.24.19.18.04",
-                       "sha256":  "14c86770dc5f315f32ff0364aecb3874cc4005af3738e021abc78ae2755e348f",
-                       "timestamp":  "2026-11-24T19:28:22Z",
-                       "actor":  "Usuario",
-                       "source":  "local"
-                   }
-               ]
+  "schema_version": 1,
+  "app_id": "forestal",
+  "events": [
+    {
+      "action": "promote_candidate",
+      "version": "2026.09.15.21.27.07",
+      "sha256": "e69704c5de391536276652b845e585f68c9f98106a333686bee819dc5aea1b8b",
+      "timestamp": "2026-09-15T21:36:17Z",
+      "actor": "OSCAR24",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.09.21.19.02.43",
+      "sha256": "2dc26b88271b61457069e2a9a8ffaabce95537bdaa29f9eaee3d6de66d994e15",
+      "timestamp": "2026-09-21T19:15:31Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.16.11.52.23",
+      "sha256": "4edd08391aed6daca66cff521f31dcfb1273f62795f6dfc7917573f15f6007ee",
+      "timestamp": "2026-10-16T12:01:30Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.16.12.19.29",
+      "sha256": "d23046b7f5d64e9cc4e01e1609fb342bdd604e8ab4836db95574d02f786e7d85",
+      "timestamp": "2026-10-16T12:27:51Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.16.12.41.04",
+      "sha256": "586d47ba6177bdbd87bf644d84e4b20411843108ddc51c62e50ebdca1557da07",
+      "timestamp": "2026-10-16T12:48:21Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.20.20.58.22",
+      "sha256": "7e9becebbf421204238bc5215cb9c6cca22d32b3fb9e505568805aad45b2115f",
+      "timestamp": "2026-10-21T11:10:05Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.21.12.09.19",
+      "sha256": "8a3d7ce2d6a94f58fc85ce93f17b765f51f6ea9fa9a121d120738f394c1cb4b3",
+      "timestamp": "2026-10-21T12:16:11Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.21.17.30.51",
+      "sha256": "de38f009e2ce1a978af40ac829d067a67defe6d387ec5b501fb40ecb8db20bd3",
+      "timestamp": "2026-10-21T17:59:43Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.22.13.12.25",
+      "sha256": "6e1a59da5a141bd71bd0cd6bfc49d6a2ee3da0f5f5a3f6ff1e5b0c8cc023685e",
+      "timestamp": "2026-10-22T13:21:29Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.22.19.46.36",
+      "sha256": "bbba7e4f17eeae31260b395e2ecba2322484f3abfd4750aab0859193ff9171e0",
+      "timestamp": "2026-10-22T19:56:22Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.22.22.30.36",
+      "sha256": "bc0d9d933ec396e09a1a00b7b8b9e917bc9ebd2ad03dcd358067f2592bd89b91",
+      "timestamp": "2026-10-22T22:38:50Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.27.17.12.30",
+      "sha256": "18de0cf670f8a3b399d7dcc6f1d9b285be651b9bd3cc77b40ef37fd7e8eb3625",
+      "timestamp": "2026-10-27T18:24:40Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.10.27.17.12.30",
+      "sha256": "18de0cf670f8a3b399d7dcc6f1d9b285be651b9bd3cc77b40ef37fd7e8eb3625",
+      "timestamp": "2026-11-04T19:00:07Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.09.17.15.49",
+      "sha256": "54d86092b00166725733cbafdf8b27020662432a449db6ed3ccce67ad6a7608b",
+      "timestamp": "2026-11-09T17:21:50Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.13.15.04.08",
+      "sha256": "443d26f39a13a045e8f3320566feddca2735ac1728dc32dd68594fb04a423484",
+      "timestamp": "2026-11-13T19:59:07Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.13.20.36.00",
+      "sha256": "42b4f558b643240f9d75eb4d0458c8a5d29f4233cb589bd100ca1a624b80bd4d",
+      "timestamp": "2026-11-13T20:42:19Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.16.12.34.56",
+      "sha256": "2248bffdb94631496a7659d1ac20e778dd273617850f35c3841735ba4344122b",
+      "timestamp": "2026-11-16T12:41:30Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.20.12.16.17",
+      "sha256": "7865483243842dc29591bfc72d3666c8c1e215dd1c0e5091f77cab4be1ec7d56",
+      "timestamp": "2026-11-20T12:25:46Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.20.18.48.14",
+      "sha256": "86978184f618014e7d7516776eaa5f17fb40cd7f829a24b92a7ddfe84b831c9a",
+      "timestamp": "2026-11-20T19:08:05Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.24.18.19.00",
+      "sha256": "40ac238fbfef59cf230372255abdab33ecd92f1f0f0cb75ba12972033fcfffab",
+      "timestamp": "2026-11-24T18:39:09Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.24.18.44.26",
+      "sha256": "11fcd535cad99238e59e3a64fd3d11bbcf773498f980494e9a9645915d369737",
+      "timestamp": "2026-11-24T18:56:11Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.24.19.18.04",
+      "sha256": "14c86770dc5f315f32ff0364aecb3874cc4005af3738e021abc78ae2755e348f",
+      "timestamp": "2026-11-24T19:28:22Z",
+      "actor": "Usuario",
+      "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.27.18.50.11",
+      "sha256": "a0c8df417cb988d1a3d01ede03923b845c4b7d66a8829fcba6cbbb9067180db3",
+      "timestamp": "2026-11-27T18:58:32Z",
+      "actor": "Ventas",
+      "source": "local"
+    }
+  ]
 }
