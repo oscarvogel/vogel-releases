@@ -1,146 +1,153 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "versions":  [
-                     {
-                         "version":  "2026.08.29.14.15.46",
-                         "published_at":  "2026-08-29T14:19:14Z",
-                         "notes":  [
-                                       "changelog acumulado y novedades por versión"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.08.31.17.01.01",
-                         "published_at":  "2026-08-31T17:04:15Z",
-                         "notes":  [
-                                       "noop"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.08.31.17.11.47",
-                         "published_at":  "2026-08-31T17:14:49Z",
-                         "notes":  [
-                                       "Revert accidental noop file"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.09.14.19.02.31",
-                         "published_at":  "2026-09-14T19:42:51Z",
-                         "notes":  [
-                                       "fix(release): crear candidate.json inexistente (#237)"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.09.16.12.28.35",
-                         "published_at":  "2026-09-16T12:40:40Z",
-                         "notes":  [
-                                       "fix(produccion): respetar filtros y acelerar exportaci├│n (#260)"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.17.13.19.45",
-                         "published_at":  "2026-11-17T13:33:23Z",
-                         "notes":  [
-                                       "Inicio: tablero de mantenimiento con vencimientos, planes por equipo y alertas.",
-                                       "Carga rapida de correctivos: nuevo campo Monto de la orden en la moneda del sistema.",
-                                       "Registro de orden de servicio: al ingresar el equipo no se reabre el buscador, se precarga su unidad de negocio y la diferencia se muestra redondeada.",
-                                       "Tablero de produccion: se carga al presionar Actualizar, avisa cuando no hay produccion y el detalle preventivo queda solo en Mantenimiento.",
-                                       "Mejoras de conexion al iniciar y mensajes de error mas claros."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.17.16.59.17",
-                         "published_at":  "2026-11-17T17:05:13Z",
-                         "notes":  [
-                                       "Nuevo boton \u0027Actualizar horas\u0027 en el Inicio y en Mantenimiento para cargar las horas/km de los equipos.",
-                                       "Carga en lote: se ingresan solo las lecturas nuevas de los equipos que se quieran actualizar, con fecha y buscador.",
-                                       "El mantenimiento preventivo, las ordenes de servicio y la carga rapida de correctivos toman la lectura manual cuando es la mas reciente.",
-                                       "Si la lectura nueva es menor a la ultima registrada, el sistema pide confirmacion antes de guardar."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.17.17.26.02",
-                         "published_at":  "2026-11-17T17:31:51Z",
-                         "notes":  [
-                                       "Al actualizar las horas de los equipos, si alguno queda vencido, urgente o proximo se avisa en pantalla.",
-                                       "Si el aviso preventivo automatico esta habilitado, tambien se envia el correo al taller.",
-                                       "El envio no repite avisos ya enviados: proximos y urgentes se informan una vez y los vencidos se recuerdan cada 3 dias."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.17.18.55.49",
-                         "published_at":  "2026-11-17T21:51:26Z",
-                         "notes":  [
-                                       "Carga rapida de correctivo: cabecera reacomodada con Unidad Movil primero y Km/Hora que se completa al elegir el equipo.",
-                                       "Enter en Unidad Movil vacia abre el buscador de equipos.",
-                                       "El proveedor se muestra solo al marcar Externo; Km/Hora ahora usa 2 decimales."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.19.16.41.29",
-                         "published_at":  "2026-11-19T16:55:06Z",
-                         "notes":  [
-                                       "Corrige la Carga de Produccion y el ABM de Clientes, que fallaban con el error \u0027Unknown column domicilio\u0027."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.20.18.28.45",
-                         "published_at":  "2026-11-20T19:13:11Z",
-                         "notes":  [
-                                       "Carga Correctivo Rapido: nuevo asistente con IA que analiza audio y fotos y propone los datos para revisar antes de guardar.",
-                                       "Configuracion IA: la API key se carga una sola vez y todas las maquinas la leen de la base.",
-                                       "Repuestos de terceros: se pueden crear sin stock o guardar la referencia en las observaciones del correctivo.",
-                                       "El correctivo rapido autocompleta equipo y proveedor, trae la ultima lectura y la unidad de negocio.",
-                                       "Incluye mejoras del manual de mantenimiento preventivo y la consulta de neumaticos por equipo."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.21.11.41.13",
-                         "published_at":  "2026-11-21T11:54:03Z",
-                         "notes":  [
-                                       "test(mantenimiento): alinear los fakes con URGENTE y la lectura manual"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.22.11.03.26",
-                         "published_at":  "2026-11-22T11:11:06Z",
-                         "notes":  [
-                                       "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.24.18.49.13",
-                         "published_at":  "2026-11-24T18:59:34Z",
-                         "notes":  [
-                                       "El Asistente IA incorpora un resumen diario de uso.",
-                                       "El resumen incluye totales, usuarios, modulos consultados y las preguntas que quedaron sin respuesta.",
-                                       "Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente.",
-                                       "No se guardan preguntas de las consultas respondidas ni datos sensibles."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.24.19.21.35",
-                         "published_at":  "2026-11-24T19:31:46Z",
-                         "notes":  [
-                                       "El Asistente IA ahora reune el uso de todas las PC en un solo resumen diario.",
-                                       "El resumen se envia por correo una sola vez por dia, con totales, usuarios, equipos, modulos y las preguntas sin respuesta.",
-                                       "El boton Uso diario muestra el total consolidado de todas las PC.",
-                                       "Solo se guardan metricas y las preguntas sin respuesta; no se guardan respuestas ni datos sensibles."
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.25.14.15.02",
-                         "published_at":  "2026-11-25T14:35:23Z",
-                         "notes":  [
-                                       "Merge pull request #359 from oscarvogel/codex/informe-mantenimiento-preventivo"
-                                   ]
-                     },
-                     {
-                         "version":  "2026.11.25.20.40.55",
-                         "published_at":  "2026-11-25T20:50:59Z",
-                         "notes":  [
-                                       "Merge pull request #362 from oscarvogel/codex/solicitudes-pendientes"
-                                   ]
-                     }
-                 ]
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "versions": [
+    {
+      "version": "2026.08.29.14.15.46",
+      "published_at": "2026-08-29T14:19:14Z",
+      "notes": [
+        "changelog acumulado y novedades por versión"
+      ]
+    },
+    {
+      "version": "2026.08.31.17.01.01",
+      "published_at": "2026-08-31T17:04:15Z",
+      "notes": [
+        "noop"
+      ]
+    },
+    {
+      "version": "2026.08.31.17.11.47",
+      "published_at": "2026-08-31T17:14:49Z",
+      "notes": [
+        "Revert accidental noop file"
+      ]
+    },
+    {
+      "version": "2026.09.14.19.02.31",
+      "published_at": "2026-09-14T19:42:51Z",
+      "notes": [
+        "fix(release): crear candidate.json inexistente (#237)"
+      ]
+    },
+    {
+      "version": "2026.09.16.12.28.35",
+      "published_at": "2026-09-16T12:40:40Z",
+      "notes": [
+        "fix(produccion): respetar filtros y acelerar exportaci├│n (#260)"
+      ]
+    },
+    {
+      "version": "2026.11.17.13.19.45",
+      "published_at": "2026-11-17T13:33:23Z",
+      "notes": [
+        "Inicio: tablero de mantenimiento con vencimientos, planes por equipo y alertas.",
+        "Carga rapida de correctivos: nuevo campo Monto de la orden en la moneda del sistema.",
+        "Registro de orden de servicio: al ingresar el equipo no se reabre el buscador, se precarga su unidad de negocio y la diferencia se muestra redondeada.",
+        "Tablero de produccion: se carga al presionar Actualizar, avisa cuando no hay produccion y el detalle preventivo queda solo en Mantenimiento.",
+        "Mejoras de conexion al iniciar y mensajes de error mas claros."
+      ]
+    },
+    {
+      "version": "2026.11.17.16.59.17",
+      "published_at": "2026-11-17T17:05:13Z",
+      "notes": [
+        "Nuevo boton 'Actualizar horas' en el Inicio y en Mantenimiento para cargar las horas/km de los equipos.",
+        "Carga en lote: se ingresan solo las lecturas nuevas de los equipos que se quieran actualizar, con fecha y buscador.",
+        "El mantenimiento preventivo, las ordenes de servicio y la carga rapida de correctivos toman la lectura manual cuando es la mas reciente.",
+        "Si la lectura nueva es menor a la ultima registrada, el sistema pide confirmacion antes de guardar."
+      ]
+    },
+    {
+      "version": "2026.11.17.17.26.02",
+      "published_at": "2026-11-17T17:31:51Z",
+      "notes": [
+        "Al actualizar las horas de los equipos, si alguno queda vencido, urgente o proximo se avisa en pantalla.",
+        "Si el aviso preventivo automatico esta habilitado, tambien se envia el correo al taller.",
+        "El envio no repite avisos ya enviados: proximos y urgentes se informan una vez y los vencidos se recuerdan cada 3 dias."
+      ]
+    },
+    {
+      "version": "2026.11.17.18.55.49",
+      "published_at": "2026-11-17T21:51:26Z",
+      "notes": [
+        "Carga rapida de correctivo: cabecera reacomodada con Unidad Movil primero y Km/Hora que se completa al elegir el equipo.",
+        "Enter en Unidad Movil vacia abre el buscador de equipos.",
+        "El proveedor se muestra solo al marcar Externo; Km/Hora ahora usa 2 decimales."
+      ]
+    },
+    {
+      "version": "2026.11.19.16.41.29",
+      "published_at": "2026-11-19T16:55:06Z",
+      "notes": [
+        "Corrige la Carga de Produccion y el ABM de Clientes, que fallaban con el error 'Unknown column domicilio'."
+      ]
+    },
+    {
+      "version": "2026.11.20.18.28.45",
+      "published_at": "2026-11-20T19:13:11Z",
+      "notes": [
+        "Carga Correctivo Rapido: nuevo asistente con IA que analiza audio y fotos y propone los datos para revisar antes de guardar.",
+        "Configuracion IA: la API key se carga una sola vez y todas las maquinas la leen de la base.",
+        "Repuestos de terceros: se pueden crear sin stock o guardar la referencia en las observaciones del correctivo.",
+        "El correctivo rapido autocompleta equipo y proveedor, trae la ultima lectura y la unidad de negocio.",
+        "Incluye mejoras del manual de mantenimiento preventivo y la consulta de neumaticos por equipo."
+      ]
+    },
+    {
+      "version": "2026.11.21.11.41.13",
+      "published_at": "2026-11-21T11:54:03Z",
+      "notes": [
+        "test(mantenimiento): alinear los fakes con URGENTE y la lectura manual"
+      ]
+    },
+    {
+      "version": "2026.11.22.11.03.26",
+      "published_at": "2026-11-22T11:11:06Z",
+      "notes": [
+        "fix(mantenimiento): reintentar cuando la IA devuelve la propuesta vacia"
+      ]
+    },
+    {
+      "version": "2026.11.24.18.49.13",
+      "published_at": "2026-11-24T18:59:34Z",
+      "notes": [
+        "El Asistente IA incorpora un resumen diario de uso.",
+        "El resumen incluye totales, usuarios, modulos consultados y las preguntas que quedaron sin respuesta.",
+        "Se envia por correo al responsable configurado al primer inicio de sesion del dia siguiente.",
+        "No se guardan preguntas de las consultas respondidas ni datos sensibles."
+      ]
+    },
+    {
+      "version": "2026.11.24.19.21.35",
+      "published_at": "2026-11-24T19:31:46Z",
+      "notes": [
+        "El Asistente IA ahora reune el uso de todas las PC en un solo resumen diario.",
+        "El resumen se envia por correo una sola vez por dia, con totales, usuarios, equipos, modulos y las preguntas sin respuesta.",
+        "El boton Uso diario muestra el total consolidado de todas las PC.",
+        "Solo se guardan metricas y las preguntas sin respuesta; no se guardan respuestas ni datos sensibles."
+      ]
+    },
+    {
+      "version": "2026.11.25.14.15.02",
+      "published_at": "2026-11-25T14:35:23Z",
+      "notes": [
+        "Merge pull request #359 from oscarvogel/codex/informe-mantenimiento-preventivo"
+      ]
+    },
+    {
+      "version": "2026.11.25.20.40.55",
+      "published_at": "2026-11-25T20:50:59Z",
+      "notes": [
+        "Merge pull request #362 from oscarvogel/codex/solicitudes-pendientes"
+      ]
+    },
+    {
+      "version": "2026.11.27.19.44.01",
+      "published_at": "2026-11-27T20:00:20Z",
+      "notes": [
+        "Merge pull request #377 from oscarvogel/codex/informe-preventivo-plan-vigente"
+      ]
+    }
+  ]
 }
