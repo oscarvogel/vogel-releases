@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "latest",
-    "version":  "2026.11.25.20.40.55",
-    "published_at":  "2026-11-25T20:50:59Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-    "sha256":  "29a3e2d854adf30f41247680f8484a8dd531d3e7e2e43a4b2f82f799b59f24bb",
-    "source_commit":  "2abb7fa761d1909c8c29a8b26155e7c83bb880e5",
-    "automated_validation":  "passed",
-    "notes":  "Merge pull request #362 from oscarvogel/codex/solicitudes-pendientes"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "latest",
+  "version": "2026.11.27.19.44.01",
+  "published_at": "2026-11-27T20:00:20Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
+  "sha256": "2c995d739b9ba25f014cd286ee8282a39819276c76e6217a1a03bf907e0eae6f",
+  "source_commit": "559b46fac205513bd2a50a1677c4def27452bd6d",
+  "automated_validation": "passed",
+  "notes": "Merge pull request #377 from oscarvogel/codex/informe-preventivo-plan-vigente"
 }
