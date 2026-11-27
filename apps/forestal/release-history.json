@@ -185,6 +185,14 @@
       "timestamp": "2026-11-27T18:58:32Z",
       "actor": "Ventas",
       "source": "local"
+    },
+    {
+      "action": "promote_candidate",
+      "version": "2026.11.27.19.58.37",
+      "sha256": "57a35746cea2d448bf3779203cf4cbb48ccc1807b95cc82dbcb42e92b0eac0ac",
+      "timestamp": "2026-11-27T20:26:22Z",
+      "actor": "Ventas",
+      "source": "local"
     }
   ]
 }
