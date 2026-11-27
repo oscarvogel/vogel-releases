@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "forestal",
   "channel": "latest",
-  "version": "2026.11.27.18.50.11",
-  "published_at": "2026-11-27T18:58:32Z",
+  "version": "2026.11.27.19.58.37",
+  "published_at": "2026-11-27T20:26:22Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-  "sha256": "a0c8df417cb988d1a3d01ede03923b845c4b7d66a8829fcba6cbbb9067180db3",
-  "source_commit": "5d11eaf1f80de3c2b46317897f9b9cee140332e9",
+  "sha256": "57a35746cea2d448bf3779203cf4cbb48ccc1807b95cc82dbcb42e92b0eac0ac",
+  "source_commit": "80bd990c41875e5b9a5712d0d56c8c25fb294aeb",
   "automated_validation": "passed",
-  "notes": "Ubicacion de ruedas: si la unidad no tiene un reparto previo, ahora se puede elegir el empleado que recibe las ruedas (solo empleados activos)."
+  "notes": "Ubicacion de ruedas: si la unidad no tiene un reparto previo, ahora se puede escribir y elegir el empleado que recibe las ruedas (solo empleados activos)."
 }
