@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "fgpy",
   "channel": "candidate",
-  "version": "2026.11.27.12.36.23",
-  "published_at": "2026-11-27T12:41:03Z",
+  "version": "2026.11.27.19.44.01",
+  "published_at": "2026-11-27T19:49:25Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-  "sha256": "b78e2b196a41472bf8a444f55f6136b3ed088cb8acfc3e929cef9662e0a75684",
-  "source_commit": "7de0c21ad2bf189f7266c9094bb1d95d7972e124",
+  "sha256": "2c995d739b9ba25f014cd286ee8282a39819276c76e6217a1a03bf907e0eae6f",
+  "source_commit": "559b46fac205513bd2a50a1677c4def27452bd6d",
   "automated_validation": "passed",
-  "notes": "Merge pull request #369 from oscarvogel/codex/fix-plausibilidad-lectura"
+  "notes": "Merge pull request #377 from oscarvogel/codex/informe-preventivo-plan-vigente"
 }
