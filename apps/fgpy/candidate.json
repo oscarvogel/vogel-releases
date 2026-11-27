@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "fgpy",
-    "channel":  "candidate",
-    "version":  "2026.11.25.20.40.55",
-    "published_at":  "2026-11-25T20:44:11Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
-    "sha256":  "29a3e2d854adf30f41247680f8484a8dd531d3e7e2e43a4b2f82f799b59f24bb",
-    "source_commit":  "2abb7fa761d1909c8c29a8b26155e7c83bb880e5",
-    "automated_validation":  "passed",
-    "notes":  "Merge pull request #362 from oscarvogel/codex/solicitudes-pendientes"
+  "schema_version": 1,
+  "app_id": "fgpy",
+  "channel": "candidate",
+  "version": "2026.11.27.12.36.23",
+  "published_at": "2026-11-27T12:41:03Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/FGPY_Produccion_Setup.exe",
+  "sha256": "b78e2b196a41472bf8a444f55f6136b3ed088cb8acfc3e929cef9662e0a75684",
+  "source_commit": "7de0c21ad2bf189f7266c9094bb1d95d7972e124",
+  "automated_validation": "passed",
+  "notes": "Merge pull request #369 from oscarvogel/codex/fix-plausibilidad-lectura"
 }
