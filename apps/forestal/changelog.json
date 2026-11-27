@@ -210,6 +210,13 @@
       "notes": [
         "Ubicacion de ruedas: si la unidad no tiene un reparto previo, ahora se puede elegir el empleado que recibe las ruedas (solo empleados activos)."
       ]
+    },
+    {
+      "version": "2026.11.27.19.58.37",
+      "published_at": "2026-11-27T20:26:22Z",
+      "notes": [
+        "Ubicacion de ruedas: si la unidad no tiene un reparto previo, ahora se puede escribir y elegir el empleado que recibe las ruedas (solo empleados activos)."
+      ]
     }
   ]
 }
