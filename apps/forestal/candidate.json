@@ -1,13 +1,13 @@
 {
-    "schema_version":  1,
-    "app_id":  "forestal",
-    "channel":  "candidate",
-    "version":  "2026.11.25.17.01.03",
-    "published_at":  "2026-11-25T17:05:02Z",
-    "mandatory":  false,
-    "download_url":  "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-    "sha256":  "18b95adadc1e9ba36d4b86a5896964d90f5f4754759d2af3fb0a4e998536bacd",
-    "source_commit":  "84d6d1eb66405f7b55f59e1f17acab8ae2635f03",
-    "automated_validation":  "passed",
-    "notes":  "Merge pull request #361 from oscarvogel/codex/informe-preventivo-agrupado"
+  "schema_version": 1,
+  "app_id": "forestal",
+  "channel": "candidate",
+  "version": "2026.11.27.18.50.11",
+  "published_at": "2026-11-27T18:55:01Z",
+  "mandatory": false,
+  "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
+  "sha256": "a0c8df417cb988d1a3d01ede03923b845c4b7d66a8829fcba6cbbb9067180db3",
+  "source_commit": "5d11eaf1f80de3c2b46317897f9b9cee140332e9",
+  "automated_validation": "passed",
+  "notes": "Merge pull request #376 from oscarvogel/codex/selector-empleado-ubicacion-ruedas"
 }
