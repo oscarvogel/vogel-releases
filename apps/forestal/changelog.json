@@ -224,6 +224,13 @@
       "notes": [
         "Merge pull request #378 from oscarvogel/codex/recibe-texto-autocompletar"
       ]
+    },
+    {
+      "version": "2026.11.28.11.07.54",
+      "published_at": "2026-11-28T11:35:01Z",
+      "notes": [
+        "Merge pull request #379 from oscarvogel/codex/correctivo-rapido-cerrado"
+      ]
     }
   ]
 }
