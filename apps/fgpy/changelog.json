@@ -148,6 +148,13 @@
       "notes": [
         "Merge pull request #377 from oscarvogel/codex/informe-preventivo-plan-vigente"
       ]
+    },
+    {
+      "version": "2026.11.28.11.01.53",
+      "published_at": "2026-11-28T11:35:12Z",
+      "notes": [
+        "Merge pull request #379 from oscarvogel/codex/correctivo-rapido-cerrado"
+      ]
     }
   ]
 }
