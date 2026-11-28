@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "forestal",
   "channel": "previous",
-  "version": "2026.11.27.19.58.37",
-  "published_at": "2026-11-27T20:26:22Z",
+  "version": "2026.11.27.21.41.33",
+  "published_at": "2026-11-28T10:11:36Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/previous/Forestal_Produccion_Setup.exe",
-  "sha256": "57a35746cea2d448bf3779203cf4cbb48ccc1807b95cc82dbcb42e92b0eac0ac",
+  "sha256": "e1e476513bbf7de67a4e6943d9b1abec2eb9db07c624ab6d40f71c898650d8ff",
   "source_commit": "80bd990c41875e5b9a5712d0d56c8c25fb294aeb",
   "automated_validation": "passed",
-  "notes": "Ubicacion de ruedas: si la unidad no tiene un reparto previo, ahora se puede escribir y elegir el empleado que recibe las ruedas (solo empleados activos)."
+  "notes": "Merge pull request #378 from oscarvogel/codex/recibe-texto-autocompletar"
 }
