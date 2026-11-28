@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "forestal",
   "channel": "latest",
-  "version": "2026.11.27.21.41.33",
-  "published_at": "2026-11-28T10:11:36Z",
+  "version": "2026.11.28.11.07.54",
+  "published_at": "2026-11-28T11:35:01Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/Forestal_Produccion_Setup.exe",
-  "sha256": "e1e476513bbf7de67a4e6943d9b1abec2eb9db07c624ab6d40f71c898650d8ff",
-  "source_commit": "80bd990c41875e5b9a5712d0d56c8c25fb294aeb",
+  "sha256": "fe7916af4fa4d3c441ebb57e27096e1e2a498e041fcf05254d1105a319c3f31c",
+  "source_commit": "81cd74dab4798c60233b64abbacbef67616e48b9",
   "automated_validation": "passed",
-  "notes": "Merge pull request #378 from oscarvogel/codex/recibe-texto-autocompletar"
+  "notes": "Merge pull request #379 from oscarvogel/codex/correctivo-rapido-cerrado"
 }
