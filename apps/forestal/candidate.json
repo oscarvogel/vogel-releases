@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "forestal",
   "channel": "candidate",
-  "version": "2026.11.28.11.07.54",
-  "published_at": "2026-11-28T11:12:23Z",
+  "version": "2026.11.28.14.25.59",
+  "published_at": "2026-11-28T14:30:44Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/candidate/Forestal_Produccion_Setup.exe",
-  "sha256": "fe7916af4fa4d3c441ebb57e27096e1e2a498e041fcf05254d1105a319c3f31c",
-  "source_commit": "81cd74dab4798c60233b64abbacbef67616e48b9",
+  "sha256": "6661230ea016ca1a2b7a89540b1ab471c8b130477e618213a3d118ec092a4981",
+  "source_commit": "d7ecb234da7e619ff000456c1851d31e6fa85015",
   "automated_validation": "passed",
-  "notes": "Merge pull request #379 from oscarvogel/codex/correctivo-rapido-cerrado"
+  "notes": "Merge pull request #383 from oscarvogel/codex/asistente-consultas-operativas"
 }
