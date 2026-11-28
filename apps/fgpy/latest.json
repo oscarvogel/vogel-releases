@@ -2,12 +2,12 @@
   "schema_version": 1,
   "app_id": "fgpy",
   "channel": "latest",
-  "version": "2026.11.27.19.44.01",
-  "published_at": "2026-11-28T10:11:29Z",
+  "version": "2026.11.28.11.01.53",
+  "published_at": "2026-11-28T11:35:12Z",
   "mandatory": false,
   "download_url": "https://github.com/oscarvogel/vogel-releases/releases/download/latest/FGPY_Produccion_Setup.exe",
-  "sha256": "2c995d739b9ba25f014cd286ee8282a39819276c76e6217a1a03bf907e0eae6f",
-  "source_commit": "559b46fac205513bd2a50a1677c4def27452bd6d",
+  "sha256": "8b740c91b3836995a80154fda389263756d8f72615a6bf46dff22134053dd8b1",
+  "source_commit": "81cd74dab4798c60233b64abbacbef67616e48b9",
   "automated_validation": "passed",
-  "notes": "Merge pull request #377 from oscarvogel/codex/informe-preventivo-plan-vigente"
+  "notes": "Merge pull request #379 from oscarvogel/codex/correctivo-rapido-cerrado"
 }
